@@ -1,0 +1,19 @@
+body {
+  background-image: radial-gradient(#fff, #ffffee);
+}
+.home.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  img {
+    max-width: 100%;
+  }
+  p {
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+}
