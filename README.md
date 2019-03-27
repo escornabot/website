@@ -1,37 +1,27 @@
-## Escornabot
+# Escornabot
 
-You can use the [editor on GitHub](https://github.com/escornabot/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://travis-ci.org/escornabot/website.svg?branch=master)](https://travis-ci.org/escornabot/website)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installing
 
-### Markdown
+It is recommended to install [docker][1] and [docker-compose][2]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fork this repository
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+$ https://github.com/escornabot/website
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Clone your repository
 
-### Jekyll Themes
+```sh
+$ git clone https://github.com/[your-username]/website
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/escornabot/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Run application in dev mode <http://localhost:4000>
+```sh
+$ docker-compose up
+```
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1]: https://docs.docker.com/install/
+[2]: https://docs.docker.com/compose/install/
