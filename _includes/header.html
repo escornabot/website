@@ -4,9 +4,6 @@
 
 <link rel="icon" type="image/x-icon" href="{{ site.url }}/img/favicon.ico" />
 
-<title>{% if page.title %}{{ page.title }}{% else %}{% t seo.title %}{% endif %}</title>
-
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{% t seo.description %}{% endif %}">
-<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{% t seo.keywords %}{% endif %}">
+<title>{% if page.title %}{{ page.title }}{% else %}{% endif %}</title>
 
 <link rel="stylesheet" href="{{ site.url }}/css/main.css">
