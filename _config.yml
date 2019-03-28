@@ -14,8 +14,8 @@ exclude:
 
 # Plugins
 gems: 
-  - jekyll-multiple-languages-plugin
-  - jekyll-paginate
+  #- jekyll-multiple-languages-plugin
+  #- jekyll-paginate
 
 # Languages
 languages:
