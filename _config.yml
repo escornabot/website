@@ -1,11 +1,31 @@
 # Build settings
 markdown: kramdown
 
-# Theme default
-theme: jekyll-theme-cayman
+# Site options
+baseurl: /
 
-# Site default
-title: Escornabot
-description: Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.
-keywords: escornabot, robótica, programación
+exclude:
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+# Plugins
+gems: 
+  - jekyll-multiple-languages-plugin
+  - jekyll-paginate
+
+# Languages
+languages:
+  - en
+  - en
+  - es
+  - gl
+
+exclude_from_localizations:
+  - css
+  - js
+  - img
 
