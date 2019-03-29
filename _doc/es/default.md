@@ -1,0 +1,6 @@
+---
+layout: default
+
+---
+
+# Default Español

@@ -12,20 +12,10 @@ exclude:
   - LICENSE
   - README.md
 
-# Plugins
-gems: 
-  - jekyll-multiple-languages-plugin
-  - jekyll-paginate
+include:
+  - _doc
 
-# Languages
-languages:
-  - en
-  - en
-  - es
-  - gl
-
-exclude_from_localizations:
-  - css
-  - js
-  - img
-
+collections:
+  doc:
+    permalink: /:path
+    output: true
