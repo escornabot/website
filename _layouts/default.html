@@ -1,9 +1,11 @@
+{% assign iso_lang = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
+
 <!DOCTYPE html>
 <html>
 <head>
   {% include header.html %}
 </head>
-<body> 
+<body>
   {% include body.html %}
   {% include footer.html %}
 </body>

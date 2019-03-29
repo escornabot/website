@@ -1,8 +1,7 @@
 <div id="languages">
-  {% assign current = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
   <ul>
-    <li><a class="{% if current == 'es'%}active{% endif %}" href="{{ site.baseurl }}/es">Español</a></li>
-    <li><a class="{% if current == 'en'%}active{% endif %}" href="{{ site.baseurl }}/en">English</a></li>
-    <li><a class="{% if current == 'gl'%}active{% endif %}" href="{{ site.baseurl }}/gl">Galego</a></li>
+    <li><a class="{% if iso_lang == 'es'%}active{% endif %}" href="{{ site.baseurl }}/es">Español</a></li>
+    <li><a class="{% if iso_lang == 'en'%}active{% endif %}" href="{{ site.baseurl }}/en">English</a></li>
+    <li><a class="{% if iso_lang == 'gl'%}active{% endif %}" href="{{ site.baseurl }}/gl">Galego</a></li>
   </ul>
 </div>
