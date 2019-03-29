@@ -19,7 +19,7 @@ collections:
 
 plugins:
   - jekyll-redirect-from
-
-# Plugins
-plugins:
   - jekyll-sitemap
+
+sass:
+  style: compressed
