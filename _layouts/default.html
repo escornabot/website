@@ -1,4 +1,7 @@
 {% assign iso_lang = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
+{% if iso_lang == '404.html' %}
+  {% assign iso_lang = 'es' %}
+{% endif %}
 
 <!DOCTYPE html>
 <html>
