@@ -1,5 +1,7 @@
 ---
 layout: default
+# Default home escornabot
+redirect_from: /
 ---
 
 <div class="home center">

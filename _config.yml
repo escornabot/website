@@ -12,10 +12,10 @@ exclude:
   - LICENSE
   - README.md
 
-include:
-  - _doc
-
 collections:
   doc:
     permalink: /:path
     output: true
+
+plugins:
+  - jekyll-redirect-from
