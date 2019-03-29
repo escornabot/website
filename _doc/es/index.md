@@ -2,4 +2,7 @@
 layout: default
 ---
 
-# Home Español
+<div class="home center">
+  <img src="{{ site.baseurl }}/img/logo.png" />
+  <p>Próximamente ...</p>
+</div>

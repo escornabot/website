@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # Site options
-baseurl: /
+baseurl: /website
 
 exclude:
   - CODE_OF_CONDUCT.md
