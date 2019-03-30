@@ -1,3 +1,5 @@
+{% assign iso_lang = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
+
 <a target="_blank" href="https://github.com/escornabot/website/edit/master/{{ page.path }}">
   {{ site.data.[iso_lang].trans.editme }}
 </a>
