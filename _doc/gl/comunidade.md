@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: doc
 
 title: Comunidade
 description: In hac habitasse platea dictumst. Curabitur scelerisque justo vitae nunc ultrices.
