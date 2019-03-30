@@ -1,14 +1,23 @@
+<div id="head">
+  <div class="container">
+    <div class="row">
+      <div class="col-6 col-lg-2 order-lg-1">
+        <div class="logo">
+          <img class="img-fluid" width="50px" src="{{ site.baseurl }}/img/logo.png" />
+        </div>
+      </div>
+      <div class="col-6 col-lg-2 order-lg-3">
+          {% include components/languages.html %}
+      </div>
+      <div class="col-12 col-lg-8 order-lg-2">
+          {% include components/navigation.html %}
+      </div>
+    </div>
+
+  </div>
+</div>
+
 <div class="container">
-  <div class="row">
-    <div class="col-12">
-        {% include components/languages.html %}
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12">
-        {% include components/navigation.html %}
-    </div>
-  </div>
   <div class="row">
     <div class="col-12">
         {{ content }}

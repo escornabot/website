@@ -1,6 +1,0 @@
----
-layout: default
-
----
-
-# Default Gallego

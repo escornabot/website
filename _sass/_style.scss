@@ -1,23 +1,31 @@
 body {
   background-image: radial-gradient(#fff, #ffffee);
+  a {
+    text-decoration: none;
+  }
 }
+
+#head {
+  background: #333;
+}
+
 #languages {
+  margin: 10px 0;
   text-align: right;
   ul {
     display: block;
-    margin: 10px;
+    margin: 0;
     padding: 0;
     list-style: none;
     li {
       display: inline-block;
       margin: 0;
-      padding: 0 10px;
+      padding: 0 5px;
       a {
-        text-decoration: none;
         color: #c4c4c4;
         &:hover,
         &.active {
-          color: #111;
+          color: #f0f0f0;
         }
       }
     }
@@ -29,7 +37,6 @@ body {
     margin: 10px;
     padding: 0;
     list-style: none;
-    background: #333;
     li {
       display: inline-block;
       margin: 0;
