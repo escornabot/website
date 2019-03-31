@@ -33,7 +33,7 @@ redirect_from: /
           </span>
           <header class="major">
             <h3><a href="/website/es/que" class="link">Qué</a></h3>
-            <p>Filosofía</p>
+            <p>Filosofía del proyecto</p>
           </header>
         </article>
         <article>
