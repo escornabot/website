@@ -4,55 +4,22 @@
   	<!-- Header -->
     <header id="header" class="alt">
         <div class="logo">
-            <img class="img-fluid" width="50px" src="/website/img/logo.png" />
+            <img class="img-fluid" src="/website/img/logo.png" />
             <a href="index.html" ><strong>Escornabot</strong></a>
         </div>
         
         <nav>
-            {% include components/languages.html %}
+          {% include components/languages.html %}
           <a href="#menu">Menu</a>
         </nav>
         {% include components/forkme.html %}
-      </header>
-			<!-- Menu -->
-      <nav id="menu">
-          {% include components/navigation.html %}
-      </nav>
-        
-
-      <!-- Banner -->
-        <!-- <section id="banner" class="major">
-          <div class="inner">
-            <header class="major">
-              <h1>Hola, mi nombre es Escornabot</h1>
-            </header>
-            <div class="content">
-             
-              <p>Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.</p>
-              <ul class="actions">
-                <li><a href="#one" class="button next scrolly">Comienza aquí</a></li>
-              </ul>
-            </div>
-          </div>
-        </section> -->
-  <!-- <div id="head">
-    <div class="container">
-      <div class="row">
-        <div class="col-6 col-lg-2 order-lg-1">
-          <div class="logo">
-            <img class="img-fluid" width="50px" src="{{ site.baseurl }}/img/logo.png" />
-          </div>
-        </div>
-        <div class="col-6 col-lg-2 order-lg-3">
-            {% include components/languages.html %}
-        </div>
-        <div class="col-12 col-lg-8 order-lg-2">
-            {% include components/navigation.html %}
-        </div>
-      </div>
-
-    </div>
-  </div> -->
+    </header>
+  
+    <!-- Menu -->
+    <nav id="menu">
+        {% include components/navigation.html %}
+    </nav>
+ 
 
   <div id="content" class="container">
     {{ content }}
