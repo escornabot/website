@@ -1,24 +1,27 @@
-{% include components/forkme.html %}
 
-<div id="head">
-  <div class="container">
-    <div class="row">
-      <div class="col-6 col-lg-2 order-lg-1">
+<div id="wrapper">
+
+  	<!-- Header -->
+    <header id="header" class="alt">
         <div class="logo">
-          <img class="img-fluid" width="50px" src="{{ site.baseurl }}/img/logo.png" />
+            <img src="/website/img/logo.png" alt="logo"/>
+            <a href="index.html" ><strong>Escornabot</strong></a>
         </div>
-      </div>
-      <div class="col-6 col-lg-2 order-lg-3">
+        
+        <nav>
           {% include components/languages.html %}
-      </div>
-      <div class="col-12 col-lg-8 order-lg-2">
-          {% include components/navigation.html %}
-      </div>
-    </div>
+          <a href="#menu">Menu</a>
+        </nav>
+        {% include components/forkme.html %}
+    </header>
+  
+    <!-- Menu -->
+    <nav id="menu">
+        {% include components/navigation.html %}
+    </nav>
+ 
 
+  <div id="content" class="container">
+    {{ content }}
   </div>
-</div>
-
-<div id="content" class="container">
-  {{ content }}
 </div>
