@@ -1,11 +1,32 @@
-- title: Home
-  href: /en
-
 - title: What
   href: /en/what
+  description: Philosophy of the project
+  is_home: true
 
 - title: How to
   href: /en/how-to
+  description: Discover how it works
+  is_home: true
+
+- title: When
+  href: /en/when
+  description: Upcoming events
+  is_home: true
+
+- title: Descargas
+  href: /en/downloads
+  description: Repository and complementary contents
+  is_home: true
+
+- title: News
+  href: /en/news
+  description: Latest news
+  is_home: true
+
+- title: Chronology
+  href: /en/chronology
+  description: Development of the project from its origins
+  is_home: true
 
 - title: Community
   href: /en/community

@@ -1,11 +1,32 @@
-- title: Inicio
-  href: /gl
-
 - title: Que
   href: /gl/que
+  description: Filosofía do proxecto
+  is_home: true
 
 - title: Como
   href: /gl/como
+  description: Descubre como funciona
+  is_home: true
+
+- title: Cando
+  href: /gl/cando
+  description: Eventos próximos
+  is_home: true
+
+- title: Descargas
+  href: /gl/descargas
+  description: Contidos de repositorio e complementarios
+  is_home: true
+
+- title: Novas
+  href: /gl/novas
+  description: Últimas noticias
+  is_home: true
+
+- title: Cronoloxía
+  href: /gl/cronoloxia
+  description: Desenvolvemento do proxecto desde as súas orixes
+  is_home: true
 
 - title: Comunidade
   href: /gl/comunidade

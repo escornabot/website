@@ -1,11 +1,10 @@
+{% assign iso_lang = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
 
 <div id="wrapper">
-
-  	<!-- Header -->
     <header id="header" class="alt">
         <div class="logo">
-            <img src="/website/img/logo.png" alt="logo"/>
-            <a href="index.html" ><strong>Escornabot</strong></a>
+            <img src="{{ site.baseurl }}/img/logo.png" alt="logo"/>
+            <a href="{{ site.baseurl }}/{{ iso_lang }}" ><strong>Escornabot</strong></a>
         </div>
         
         <nav>
@@ -14,13 +13,9 @@
         </nav>
         {% include components/forkme.html %}
     </header>
-  
-    <!-- Menu -->
     <nav id="menu">
         {% include components/navigation.html %}
     </nav>
- 
-
   <div id="content" class="container">
     {{ content }}
   </div>

@@ -1,8 +1,7 @@
 ---
-layout: default
----
+layout: index
 
-<div class="home center">
-  <img src="{{ site.baseurl }}/img/logo.png" />
-  <p>Coming soon ...</p>
-</div>
+title: Escornabot
+description: Escornabot is an open source/hardware project that aims to bring robotics and programming to children.
+image: 
+---
