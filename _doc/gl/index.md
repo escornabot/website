@@ -1,8 +1,7 @@
 ---
-layout: default
----
+layout: index
 
-<div class="home center">
-  <img src="{{ site.baseurl }}/img/logo.png" />
-  <p>En breve ...</p>
-</div>
+title: Escornabot
+description: Escornabot é un proxecto de código/hardware aberto que ten por obxectivo achegar a robótica e a programación aos nenos.
+image: 
+---

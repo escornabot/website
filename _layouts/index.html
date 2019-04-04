@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% assign iso_lang = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
+
+<section id="banner" class="major">
+  <div class="inner">
+  <header class="major">
+      <h1>{{ site.data.[iso_lang].trans.hello }}</h1>
+    </header>
+    <div class="content"> 
+    <div class="text">     
+      <p>{{ site.data.[iso_lang].trans.what }}</p>
+      <ul class="actions">
+        <li><a href="#one" class="button next scrolly">{{ site.data.[iso_lang].trans.next }}</a></li>
+      </ul>
+      </div> 
+      <div class="main-img">
+        <img src="{{ site.baseurl }}/img/escornabot.png" alt="Escornabot"/>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="main">
+  <section id="one" class="tiles">
+    {% for nav in site.data.[iso_lang].nav %}
+      {% if nav.is_home %}
+        <article>
+          <!--
+          <span class="image">
+            <img src="images/pic01.jpg" alt="" /> 
+          </span>
+          -->
+          <header class="major">
+            <h3><a href="{{ site.baseurl }}{{ nav.href }}" class="link">{{ nav.title }}</a></h3>
+            <p>{{ nav.description }}</p>
+          </header>
+        </article>
+        {% endif %}
+    {% endfor %}
+  </section>
+  <!--
+  <section id="two">
+    <div class="inner">
+      <header class="major">
+        <h2>{{ nav.title }}</h2>
+      </header>
+      <p>Escornabot es un proyecto liderado y soportado por la comunidad. Profesores, hacedores, diseñadores, desarroladores software, documentadores, traductores... ¡todos son bienvenidos!. </p>
+      <ul class="actions">
+        <li><a href="{{ site.baseurl }}{{ nav.href }}" class="button next">Únete a la comunidad</a></li>
+      </ul>
+    </div>
+  </section>
+  -->
+</div>
