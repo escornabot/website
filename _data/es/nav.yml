@@ -1,17 +1,23 @@
-- title: Inicio
-  href: /es
-
 - title: Qué
   href: /es/que
+  description: Filosofía del proyecto
+  is_home: true
 
 - title: Cómo
   href: /es/como
+  description: Descubre cómo funciona
+  is_home: true
 
 - title: Cuando
   href: /es/cuando
+  description: Próximos eventos
+  is_home: true
 
 - title: Descargas
   href: /es/descargas
+  description: Repositorio y contenidos complementarios
+  is_home: true
 
 - title: Comunidad
   href: /es/comunidad
+  description: Escornabot es un proyecto liderado y soportado por la comunidad. Profesores, hacedores, diseñadores, desarroladores software, documentadores, traductores... ¡todos son bienvenidos!
