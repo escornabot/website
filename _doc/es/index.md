@@ -28,7 +28,6 @@ image:
 </section>
 
 <div id="main">
-
   <section id="one" class="tiles">
     {% assign iso_lang = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
     {% for nav in site.data.[iso_lang].nav %}
@@ -47,7 +46,6 @@ image:
         {% endif %}
     {% endfor %}
   </section>
-
   <section id="two">
     <div class="inner">
       <header class="major">
@@ -59,5 +57,4 @@ image:
       </ul>
     </div>
   </section>
-
 </div>
