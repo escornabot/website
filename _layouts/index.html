@@ -7,17 +7,17 @@ layout: default
 <section id="banner" class="major">
   <div class="inner">
   <header class="major">
-      <h1>{{ site.data.[iso_lang].trans.hello }}</h1>
+      <h1>{{ site.data[iso_lang].trans.hello }}</h1>
     </header>
     <div class="content"> 
     <div class="text">     
-      <p>{{ site.data.[iso_lang].trans.what }}</p>
+      <p>{{ site.data[iso_lang].trans.what }}</p>
       <ul class="actions">
-        <li><a href="#one" class="button next scrolly">{{ site.data.[iso_lang].trans.next }}</a></li>
+        <li><a href="#one" class="button next scrolly">{{ site.data[iso_lang].trans.next }}</a></li>
       </ul>
       </div> 
       <div class="main-img">
-        <img src="{{ site.baseurl }}/img/escornabot.png" alt="Escornabot"/>
+        <img src="{{ site.baseurl }}/img/home/escornabot.png" alt="Escornabot"/>
       </div>
     </div>
   </div>
@@ -25,12 +25,12 @@ layout: default
 
 <div id="main">
   <section id="one" class="tiles">
-    {% for nav in site.data.[iso_lang].nav %}
+    {% for nav in site.data[iso_lang].nav %}
       {% if nav.is_home %}
         <article>
           <!--
           <span class="image">
-            <img src="images/pic01.jpg" alt="" /> 
+            <img src="{{ site.baseurl }}/img/home/pic01.jpg" alt="" /> 
           </span>
           -->
           <header class="major">

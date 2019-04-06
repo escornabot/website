@@ -2,18 +2,35 @@
 layout: doc
 
 title: ¿Qué es un Escornabot?
-description: In hac habitasse platea dictumst. Curabitur scelerisque justo vitae nunc ultrices.
+description: Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.
 image: 
 ---
 
 # ¿Qué es un Escornabot?
 
-Lorem ipsum dolor sit amet, consectetur **adipiscing elit**. Duis aliquet ipsum vitae pulvinar pharetra. Sed venenatis consequat sagittis. Maecenas at sapien non odio tempus scelerisque. Duis varius, libero quis dignissim mollis, justo arcu dictum mauris, eget lobortis sem dui consectetur dui. Aenean consequat orci non auctor faucibus. Nunc sit amet tempor lectus, ac mattis lacus. Nunc finibus elit sit amet ante lobortis, vitae cursus mi volutpat. Cras elementum massa in ullamcorper laoreet. Fusce tristique viverra urna eget interdum. Vivamus sit amet lobortis nisl. Duis ut semper lectus. Sed consequat nec ex eget cursus. Pellentesque tristique neque a turpis suscipit ultrices. In tempor risus consectetur, malesuada libero blandit, luctus justo. Integer non interdum nibh.
+Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.
 
-- Etiam placerat elit in nunc ornare
-- nec mattis magna tristique. 
-- Morbi metus tortor, placerat eget metus non. 
+El Escornabot básico puede programarse con los botones para ejecutar secuencias de movimientos. A partir de aquí, la imaginación es el único límite en las posibilidades.
 
-In hac habitasse platea dictumst. Curabitur scelerisque justo vitae nunc ultrices, vitae pretium magna malesuada. Integer vitae dui eget dolor pretium molestie. Phasellus in egestas sem, nec pretium odio. Curabitur non aliquam libero, volutpat gravida ante. In hac habitasse platea dictumst. Pellentesque vel tellus vel tortor feugiat mattis ut rhoncus felis. Duis placerat justo vitae felis laoreet, in commodo est euismod. Duis at laoreet metus, eget finibus nunc. Quisque eget purus leo.
+- ¡Eh! ¡Eso que describes se parece mucho a Bee-Bot!
+- Sí, pero mucho mejor por varias razones. Entre ellas, voy a destacar algunas:
 
-Vestibulum quis arcu sem. Etiam efficitur tortor ultrices molestie tempus. Praesent fermentum hendrerit blandit. Suspendisse potenti. Curabitur ac ipsum quam. Ut a tristique justo. Aliquam erat volutpat. Proin ut blandit arcu. Sed id finibus erat. Duis et sem enim. Integer imperdiet ante et tristique molestie. Pellentesque viverra lobortis tincidunt. Proin eleifend erat et nisi luctus, at condimentum eros eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla ac ligula vestibulum, auctor ex id, dictum lectus. 
+Lo haces tú. Y tus alumnos, hijos, primos pequeños... Cualquiera puede ayudar participando en el proceso desde el principio. El placer de fabricar tu propio escornabot hace que sea una experiencia estupenda, sobre todo si hay niños participando.
+
+Es un proyecto de hardware abierto (OSHW) y software libre (FOSS) y puedes adaptar sus características a tus necesidades: ponerle sensores, leds, cambiar la apertura del ángulo de giro, la distancia que avanza... cualquier cosa que se te ocurra.
+
+Es (por precio) más asequible que otros robots educativos comerciales. Montar un escornabot puede costar menos de 20€ si sabes donde comprar los componentes (por internet). Este precio no es su valor porque lleva tiempo de trabajo y otros costes indirectos (especialmente la impresión 3D de las piezas).
+
+Este vídeo es la presentación del proyecto que hizo [@procastino](https://twitter.com/procastino) (en gallego, -pronto- con subtítulos en castellano) en el [Arduino Day 2015](http://makerslugo.org/evento/arduino-day-2015) organizado por Makers Lugo.
+
+[![Audi R8](http://img.youtube.com/vi/Czaiu6NDMSw/0.jpg)](https://www.youtube.com/watch?v=Czaiu6NDMSw "Escornabot"){:target="_blank"}
+
+## Filosofía
+
+Es un projecto de open hardware y software libre, lo que significa que es abierto a la comunidad y a cualquiera (incluyéndote a ti) que pueda contribuir a su evolución. Si quieres aportar algún cariño a este projecto, en forma de nuevas funcionalidades, rediseño, documentación o lo que sea, estaremos encantados de leer tus ideas y sugerencias.
+
+## Preguntas frecuentes y sus respuestas
+
+¿De dónde viene el nombre Escornabot? Es una composición acertada de escornaboi y robot (escorna + bot). Escornaboi es la palabra en gallego para el lucanus cervus (ciervo volante, el mayor escarabajo conocido en el universo). Por otro lado, creemos que el Escornabot es el aniquilador definitivo del Beebot.
+
+¿Cuándo y dónde empezó el proyecto? Nació en Bricolabs Hacklab en un memorable día de julio de 2014. Más información aquí.
