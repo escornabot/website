@@ -1,5 +1,5 @@
 ---
-layout: doc_news
+layout: news
 
 title: Noticias
 description: 
