@@ -2,7 +2,7 @@
 layout: doc
 
 title: ¿Qué es un Escornabot?
-description: In hac habitasse platea dictumst. Curabitur scelerisque justo vitae nunc ultrices.
+description: Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.
 image: 
 ---
 
