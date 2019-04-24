@@ -7,15 +7,12 @@ image:
 ---
 # News
 ### EL Heraldo
-https://www.heraldo.es/noticias/sociedad/2018/09/27/pon-escornabot-vida-1268494-310.html
-
 ## ...Pon un Escornabot en tu vida
-
+* [Acceso a la Fuente][ERA01] 
 Escornabot es un proyecto libre de robótica educativa, nacido en la Asociación Bricolabs que lo comparte para que cualquier persona pueda montarlo por su cuenta, sin importar su nivel de conocimientos sobre electrónica o programación.
 
-
 ### Pablo Rubio
----  https://imagenes.heraldo.es/files/image_990_v1/uploads/imagenes/2018/09/26/_escornabotpablorubio_da386c8e.jpg
+![brivoi compactus][COM01]
 Escornabot en la Playa de las Catedrales. Ribadeo, Lugo.Pablo Rubio
 
 Escornabot es un término que nace de combinar escornaboi y robot. Escornaboi es la palabra gallega para ciervo volante, el mayor escarabajo conocido. Forma parte del proyecto de código abierto que nace en la Asociación Bricolabs (A Coruña), un ejemplo de ciencia ciudadana. Tres personas de diferentes perfiles coinciden en un espacio común creando un proyecto divulgativo para que los demás podamos replicar y modificar libremente: Tucho Méndez aporta la idea inicial, Xoan Sampaiño diseña las piezas 3D y Rafa Couto realiza la programación para Arduino. Después entra Xabier Rosas diseñando nuevas PCB, Jorge Lobo aportando aplicaciones para el aula, y Miguel Gesteiro e Ismael Serrano que desarrollan apps para dispositivos móviles.
@@ -41,3 +38,8 @@ La vida es compartir, no competir.
 Pablo Rubio es maker y freak a tiempo completo (web: pablorubma.cc).
 
 Esta sección se realiza en colaboración con el Observatorio de la Ciencia Ciudadana en España, coordinado por la Fundación Ibercivis.
+<!-- Links -->
+[ERA01]: https://www.heraldo.es/noticias/sociedad/2018/09/27/pon-escornabot-vida-1268494-310.html
+
+<!-- Images -->
+[COM01]: https://imagenes.heraldo.es/files/image_990_v1/uploads/imagenes/2018/09/26/_escornabotpablorubio_da386c8e.jpg "Brivoi compactus"
