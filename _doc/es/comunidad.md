@@ -8,12 +8,48 @@ image:
 
 # Comunidad
 
-Lorem ipsum dolor sit amet, consectetur **adipiscing elit**. Duis aliquet ipsum vitae pulvinar pharetra. Sed venenatis consequat sagittis. Maecenas at sapien non odio tempus scelerisque. Duis varius, libero quis dignissim mollis, justo arcu dictum mauris, eget lobortis sem dui consectetur dui. Aenean consequat orci non auctor faucibus. Nunc sit amet tempor lectus, ac mattis lacus. Nunc finibus elit sit amet ante lobortis, vitae cursus mi volutpat. Cras elementum massa in ullamcorper laoreet. Fusce tristique viverra urna eget interdum. Vivamus sit amet lobortis nisl. Duis ut semper lectus. Sed consequat nec ex eget cursus. Pellentesque tristique neque a turpis suscipit ultrices. In tempor risus consectetur, malesuada libero blandit, luctus justo. Integer non interdum nibh.
+![Come in, we're open!][Come in, we're open!]
 
-- Etiam placerat elit in nunc ornare
-- nec mattis magna tristique. 
-- Morbi metus tortor, placerat eget metus non. 
+## Soporte
 
-In hac habitasse platea dictumst. Curabitur scelerisque justo vitae nunc ultrices, vitae pretium magna malesuada. Integer vitae dui eget dolor pretium molestie. Phasellus in egestas sem, nec pretium odio. Curabitur non aliquam libero, volutpat gravida ante. In hac habitasse platea dictumst. Pellentesque vel tellus vel tortor feugiat mattis ut rhoncus felis. Duis placerat justo vitae felis laoreet, in commodo est euismod. Duis at laoreet metus, eget finibus nunc. Quisque eget purus leo.
+Escornabot es un proyecto liderado y soportado por la comunidad. Profesores, _hacedores_, diseñadores, desarroladores software, documentadores, traductores... ¡todos son bienvenidos!
 
-Vestibulum quis arcu sem. Etiam efficitur tortor ultrices molestie tempus. Praesent fermentum hendrerit blandit. Suspendisse potenti. Curabitur ac ipsum quam. Ut a tristique justo. Aliquam erat volutpat. Proin ut blandit arcu. Sed id finibus erat. Duis et sem enim. Integer imperdiet ante et tristique molestie. Pellentesque viverra lobortis tincidunt. Proin eleifend erat et nisi luctus, at condimentum eros eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla ac ligula vestibulum, auctor ex id, dictum lectus. 
+### Listas de correo
+
+Principalmente, preferimos que espongas tus preguntas en nuestra lista de correo para que recibas respuesta rápida y más gente se pueda aprovechar de los problemas recurrentes. Éstas son las listas de correo que tenemos activadas:
+
+  * [Escornabot Users][ESU01] (cuestiones comunes, propuestas de nueva funcionalidad, juegos relacionados, detalles no técnicos). 
+  * [Escornabot Developers][ESD01] (detalle técnico alto, fallos en el desarrollo y sus soluciones).
+
+Se usa inglés, español y gallego en ambas listas.
+
+### Wiki y Github
+
+Muchas de las cosas que vamos desarrollando pero no tienen todavía la estabilidad necesaria para documentarlas y publicarlas en la página oficial, las puedes consultar en nuestra [wiki][WIK01]. Lo mismo pasa con los diseños y programas que vamos subiendo a nuestro [github][GIT01].
+
+### Correo electrónico y formulario de contacto
+
+<!--
+## Escornabot Family
+
+-ToDo- 
+
+  * Register your Escornabot
+  * Escornabot Certifications
+
+
+## Travelling Family
+
+-ToDo-
+-->
+
+[CON01]: https://escornabot.com/web/es/form/contacto
+[ESD01]: https://groups.google.com/forum/#!forum/escornabot
+[ESU01]: https://groups.google.com/forum/#!forum/escornabot_users
+[WIK01]: http://escornawiki.org/P%C3%A1gina_principal
+[GIT01]: https://github.com/escornabot/
+
+
+<!-- Images -->
+[Come in, we're open!]: https://escornabot.com/web/sites/default/files/node_attachs/2721654446_2baea3ef82_z.jpg "Come in!"
+
