@@ -8,12 +8,36 @@ image:
 
 # Cronología
 
-Lorem ipsum dolor sit amet, consectetur **adipiscing elit**. Duis aliquet ipsum vitae pulvinar pharetra. Sed venenatis consequat sagittis. Maecenas at sapien non odio tempus scelerisque. Duis varius, libero quis dignissim mollis, justo arcu dictum mauris, eget lobortis sem dui consectetur dui. Aenean consequat orci non auctor faucibus. Nunc sit amet tempor lectus, ac mattis lacus. Nunc finibus elit sit amet ante lobortis, vitae cursus mi volutpat. Cras elementum massa in ullamcorper laoreet. Fusce tristique viverra urna eget interdum. Vivamus sit amet lobortis nisl. Duis ut semper lectus. Sed consequat nec ex eget cursus. Pellentesque tristique neque a turpis suscipit ultrices. In tempor risus consectetur, malesuada libero blandit, luctus justo. Integer non interdum nibh.
+## El origen
 
-- Etiam placerat elit in nunc ornare
-- nec mattis magna tristique. 
-- Morbi metus tortor, placerat eget metus non. 
+-ToDo-
 
-In hac habitasse platea dictumst. Curabitur scelerisque justo vitae nunc ultrices, vitae pretium magna malesuada. Integer vitae dui eget dolor pretium molestie. Phasellus in egestas sem, nec pretium odio. Curabitur non aliquam libero, volutpat gravida ante. In hac habitasse platea dictumst. Pellentesque vel tellus vel tortor feugiat mattis ut rhoncus felis. Duis placerat justo vitae felis laoreet, in commodo est euismod. Duis at laoreet metus, eget finibus nunc. Quisque eget purus leo.
+## Hitos
 
-Vestibulum quis arcu sem. Etiam efficitur tortor ultrices molestie tempus. Praesent fermentum hendrerit blandit. Suspendisse potenti. Curabitur ac ipsum quam. Ut a tristique justo. Aliquam erat volutpat. Proin ut blandit arcu. Sed id finibus erat. Duis et sem enim. Integer imperdiet ante et tristique molestie. Pellentesque viverra lobortis tincidunt. Proin eleifend erat et nisi luctus, at condimentum eros eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla ac ligula vestibulum, auctor ex id, dictum lectus. 
+### Versión 'Placidus'
+
+![Placidus][Placidus]
+
+La primera versión estable, llamada *Placidus*, se lanzó en noviembre de 2014 y fue sometida a duras pruebas durante la *[OSHWDEM A Coruña 2014][OSH01]* por los niños que nos visitaron durante el evento. Todos los Escornabots se mantuvieron de una una pieza tras dos días de jugar intensamente con los niños (y también con algunos mayores :)
+
+Esta versión utilizaba el primer y el segundo modelo de chasis, ambos con las placas de los drivers de los motores en  los laterales y la botonera sobre ellas. La primera interfaz Bluetooth se implementó en esta versión y se controlaba enviando líneas de texto describiendo los comandos de movimiento mediante la app *Android Bluetooth terminal*.
+
+### Versión 'Brivoi'
+
+![Brivoi][Brivoi]
+
+Su lanzamiento tuvo lugar durante el [*Streets Science Day*][SCI01] en mayo de 2015. El diseño del nuevo chasis es más compacto, reduciendo el plástico utilizado y el tiempo de impresión hasta el 50%. En él se incorpora el concepto de hardware modular para unir las partes con soportes (brackets) a la electrónica, baterías y otros módulos opcionales. Otra característica interesante, debido a su pequeño tamaño, es la posibilidad de realizar giros en casillas cuadradas de 10cm x 10cm.
+
+El firmware es capaz de detectar pulsaciones largas, doblando por tanto las funciones de la botonera. Introduce el comando de pausa y se simplifica el código para permitir que se  amplíe el comportamiento del Escornabot más fácilmente.
+
+Se diseñaron placas de hardware específicas para el Escornabot: la _Escornaboard_ que integra el Arduino Nano, un controlador para dos motores paso a paso, el zumbador y otros conectores e interruptores útiles en una placa de 5cm x 5cm board; la _Escornashield Keypad_ facilitando el montaje de la botonera y un  _Arduino Shield_ preparado para conectarse a un Arduino Uno/Mega
+
+---------
+
+[OSH01]: http://oshwdem.org/2014/11/se-acabo-pulpo/
+[SCI01]: http://www.amigoscc.es/agend/?calendar_day=2015-05-09
+
+<!-- Images -->
+[Placidus]: https://escornabot.com/web/sites/default/files/node_attachs/placidus.jpg
+[Brivoi]: https://escornabot.com/web/sites/default/files/node_attachs/brivoi.jpg
+

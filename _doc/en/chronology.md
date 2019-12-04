@@ -8,12 +8,37 @@ image:
 
 # Chronology
 
-Lorem ipsum dolor sit amet, consectetur **adipiscing elit**. Duis aliquet ipsum vitae pulvinar pharetra. Sed venenatis consequat sagittis. Maecenas at sapien non odio tempus scelerisque. Duis varius, libero quis dignissim mollis, justo arcu dictum mauris, eget lobortis sem dui consectetur dui. Aenean consequat orci non auctor faucibus. Nunc sit amet tempor lectus, ac mattis lacus. Nunc finibus elit sit amet ante lobortis, vitae cursus mi volutpat. Cras elementum massa in ullamcorper laoreet. Fusce tristique viverra urna eget interdum. Vivamus sit amet lobortis nisl. Duis ut semper lectus. Sed consequat nec ex eget cursus. Pellentesque tristique neque a turpis suscipit ultrices. In tempor risus consectetur, malesuada libero blandit, luctus justo. Integer non interdum nibh.
+## The origin
 
-- Etiam placerat elit in nunc ornare
-- nec mattis magna tristique. 
-- Morbi metus tortor, placerat eget metus non. 
+-ToDo-
 
-In hac habitasse platea dictumst. Curabitur scelerisque justo vitae nunc ultrices, vitae pretium magna malesuada. Integer vitae dui eget dolor pretium molestie. Phasellus in egestas sem, nec pretium odio. Curabitur non aliquam libero, volutpat gravida ante. In hac habitasse platea dictumst. Pellentesque vel tellus vel tortor feugiat mattis ut rhoncus felis. Duis placerat justo vitae felis laoreet, in commodo est euismod. Duis at laoreet metus, eget finibus nunc. Quisque eget purus leo.
+## Milestones
 
-Vestibulum quis arcu sem. Etiam efficitur tortor ultrices molestie tempus. Praesent fermentum hendrerit blandit. Suspendisse potenti. Curabitur ac ipsum quam. Ut a tristique justo. Aliquam erat volutpat. Proin ut blandit arcu. Sed id finibus erat. Duis et sem enim. Integer imperdiet ante et tristique molestie. Pellentesque viverra lobortis tincidunt. Proin eleifend erat et nisi luctus, at condimentum eros eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla ac ligula vestibulum, auctor ex id, dictum lectus. 
+### 'Placidus' version
+
+![Placidus][Placidus]
+
+The first stable release, codename *Placidus*, was launched in November 2014 to be hardily tested during the *[OSHWDEM A Coruña 2014][OSH01]* with every child who visited us in the event. Every Escornabot was kept in one piece after 2 intensive days playing with the children (and also with some aged people :)
+
+This version mounted the first and second chassis models, both of them with the motor-driver boards at right and left sides and the button set on the top. The first Bluetooth interface was implemented in this version and it could be controlled sending text lines describing movement commands with an *Android Bluetooth terminal* app.
+
+### 'Brivoi' version
+
+![Brivoi][Brivoi]
+
+It was launched on the [*Streets Science Day*][SCI01] in May 2015. The new chassis design is more compact reducing the plastic and printing time down to 50%. It incorporates the concept of modular hardware to join the parts with brackets to the electronics, batteries and other optional modules. Another interesting feature, due to its small size, is the possibility to make turns in square cells of 10cm x 10cm.
+
+The firmware is able to detect long key press and doubling the functions for keypad, introduces the pause command and the code is simplified to allow extend the Escornabot behaviour easily.
+
+Specific hardware boards were designed: the _Escornaboard_ integrating the Arduino Nano, a controller for two stepper motors, the buzzer and other useful connectors and switches in a 5cm x 5cm board; the _Escornashield Keypad_ simplifying the construction of the keypad and, an _Arduino Shield_ ready to connect to Arduino Uno/Mega
+
+---------
+
+[OSH01]: http://oshwdem.org/2014/11/se-acabo-pulpo/
+[SCI01]: http://www.amigoscc.es/agend/?calendar_day=2015-05-09
+
+<!-- Images -->
+[Placidus]: https://escornabot.com/web/sites/default/files/node_attachs/placidus.jpg
+[Brivoi]: https://escornabot.com/web/sites/default/files/node_attachs/brivoi.jpg
+
+
