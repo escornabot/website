@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://escornabot.com/web"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Escornabot - maze</title>
+ <link>http://escornabot.com/web/en/tag/tags/maze</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Maze without limits with straws and clothespins</title>
+ <link>http://escornabot.com/web/en/2015-03-09/maze-without-limits-straws-and-clothespins</link>
+ <description>&lt;a href=&quot;/web/en/2015-03-09/maze-without-limits-straws-and-clothespins&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/clothespin_straw.jpg?itok=JCTphR46&quot; alt=&quot;Maze without limits with straws and clothespins&quot; title=&quot;Maze without limits with straws and clothespins&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://plus.google.com/116520498030072719107/&quot;&gt;Jorge Lobo&lt;/a&gt;, teacher at &lt;em&gt;CEIP Lope de Vega&lt;/em&gt; school in Madrid, proposes an interesting way of building &lt;strong&gt;mazes with barriers made of straws and clothespins&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The maze challenge consists in programming the Escornabot in order to cross the maze and don&#039;t crash with the walls. One error will cause the building destruction by the bug. Fortunatly, these barriers are recyclable.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The original post is here (in Spanish): &lt;a href=&quot;http://www.ceipmiskatonic.blogspot.nl/2015/03/laberintos-infinitos-para-escornabot-o.html&quot;&gt;http://www.ceipmiskatonic.blogspot.nl/2015/03/laberintos-infinitos-para-...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/tag/tags/game&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;game&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/tag/tags/maze&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;maze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2015-03-09/laberinto-sin-limites-con-pajitas-y-pinzas-de-ropa&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2015-03-09/labirinto-sen-limites-con-pallinas-e-pinzas-de-roupa&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Mon, 09 Mar 2015 10:00:47 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">21 at http://escornabot.com/web</guid>
+</item>
+</channel>
+</rss>

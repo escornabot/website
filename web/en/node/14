@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://escornabot.com/web/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="up" href="/web/en/content/howto-placidus" />
+<meta name="MobileOptimized" content="width" />
+<meta name="description" content="We have a google doc to show you how to build your Escornabot. We know it&#039;s not the fanciest way to put it, but we haven&#039;t had the time to make it better... if you want to do it, don&#039;t hesitate to contact us! Escornabot Mounting Guide" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://escornabot.com/web/en/content/mounting-guide" />
+<link rel="shortlink" href="http://escornabot.com/web/en/node/14" />
+  <title>Mounting Guide | Escornabot</title>  
+  <link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_sCZyELruzZsU-H603lC0fwMis5xoFBBkEwLLm2q2V1w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_u3j-FHH08vbG44bUJwRFYEJxzMZl1pjubFtUNjCut_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_2GfuzX7yYrfeWXzZAv2ZPpai5W2vNBGwP0X_-XcvhjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_TGJb4peQX-zPXkYpaPJ84mCM5BpWmXDDxHM6QS3jZis.css" media="all and (min-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_KewDO5wEEsc7lN4pHuveACu0xsD2jrJhTUcVZmmWkVs.css" media="all and (min-width: 760px) and (max-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_Ody3Rnnxl1jUn-gSkZfNONZA3PvWask0tHZzQnHYUIU.css" media="all and (max-width: 760px)" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_XjlpzNI0UdPssKtHTB8S9WmDv8dLNTg0hRh1g_dAC6w.css" media="all" />
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/all/themes/corporateclean/css/basic-layout.css?o31tla" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/all/themes/corporateclean/css/ie.css?o31tla" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_IZ7FyaTdrGToZPRvGz0tqmI8KYFXyahKCc9-h0vHDZM.css" media="all" />
+  
+    
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/web/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://escornabot.com/web/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="http://escornabot.com/web/sites/default/files/js/js_XYC4gyUzw3-74Kdb4ZRY-S9C0sa04I19BTE36oUCcrE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-60492538-1", {"cookieDomain":".escornabot.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/web\/","pathPrefix":"en\/","ajaxPageState":{"theme":"corporateclean","theme_token":"_5SYg_OegTgwyl-Wf0qeyiZZIhSEdAGxX39t177YQiM","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/corporateclean\/css\/960.css":1,"sites\/all\/themes\/corporateclean\/css\/720.css":1,"sites\/all\/themes\/corporateclean\/css\/mobile.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/web\/en\/node\/14":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-14 node-type-page i18n-en" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <a href="/web/en" title="Home"><img src="http://escornabot.com/web/sites/default/files/logo_0.png" alt="Home" /></a>
+                 
+                        <div class="clearfix">
+                        <span id="site-name"><a href="/web/en" title="Home">Escornabot</a></span>
+                                    </div>
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			  <div class="region region-search-area">
+    <div id="block-locale-language" class="block block-locale">
+
+
+<div class="content">
+<ul class="language-switcher-locale-url"><li class="en first active"><a href="/web/en/content/mounting-guide" class="language-link active" xml:lang="en">English</a></li>
+<li class="es"><a href="/web/es/content/guia-de-montaje" class="language-link" xml:lang="es">Español</a></li>
+<li class="gl last"><a href="/web/gl/content/guia-de-montaxe" class="language-link" xml:lang="gl">Galego</a></li>
+</ul></div>
+</div><div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/web/en/node/14" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/web/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-a4V-dJ2MA5t6F9785vCcDSuh4-AQP1JROIo8Iy4PO3E" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+            <ul class="menu"><li class="first leaf"><a href="/web/en" title="">Home</a></li>
+<li class="leaf"><a href="/web/en/what">What</a></li>
+<li class="leaf active-trail"><a href="/web/en/content/how" title="" class="active-trail">How-to</a></li>
+<li class="leaf"><a href="/web/en/content/community" title="">Community</a></li>
+<li class="last leaf"><a href="/web/en/form/contact">Contact</a></li>
+</ul>            </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                
+                <div id="main" class="grid_12">    
+                    
+            <div class="breadcrumb"><a href="/web/en">Home</a> <span class="breadcrumb-separator">/</span><a href="/web/en/content/how">How to...</a> <span class="breadcrumb-separator">/</span><a href="/web/en/content/howto-placidus">Howto Placidus</a> <span class="breadcrumb-separator">/</span>Mounting Guide</div>            
+                   
+                 
+                        
+                        
+			                        <h1>Mounting Guide</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-14" class="node node-page" about="/web/en/content/mounting-guide" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Mounting Guide" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We have a google doc to show you how to build your Escornabot. We know it's not the fanciest way to put it, but we haven't had the time to make it better... if you want to do it, don't hesitate to <a href="http://escornabot.com/web/en/contact">contact us</a>!</p>
+
+<p><a href="https://docs.google.com/presentation/d/1LE8i5FBI2Kv3MGPuZugey9yPwGXQFpL1QkJbp05twuc/edit#slide=id.p">Escornabot Mounting Guide</a></p>
+</div></div></div>  <div id="book-navigation-4" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/web/en/content/check-and-configure-your-keypad-readings-placidus" class="page-previous" title="Go to previous page">‹ Check and configure your keypad readings.</a>
+                    <a href="/web/en/content/howto-placidus" class="page-up" title="Go to parent page">up</a>
+                    <a href="/web/en/content/configure-and-load-firmware" class="page-next" title="Go to next page">Configure and load the firmware ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="es first"><a href="/web/es/content/guia-de-montaje" class="language-link" xml:lang="es">Español</a></li>
+<li class="gl last"><a href="/web/gl/content/guia-de-montaxe" class="language-link" xml:lang="gl">Galego</a></li>
+</ul></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+            <ul class="secondary-menu links clearfix"><li class="menu-383 first last"><a href="/web/en/user/login" title="Login as authenticated user.">Login</a></li>
+</ul>            
+                        
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+    
+</div><!-- EOF: #footer -->  </body>
+</html>

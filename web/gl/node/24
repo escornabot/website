@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="gl" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://escornabot.com/web/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="up" href="/web/gl/content/comunidade" />
+<meta name="MobileOptimized" content="width" />
+<meta name="description" content="Escornabots polo mundo! A rapazada quere xogar cos escornabots nas súas escolas, e aos escornabots lles encanta coñecer lugares novos! :) É por isto que os nosos robots favoritos tenden a xuntarse para percorrer mundo e facer novos amigos e amigas... son as Familias Viaxeiras!" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://escornabot.com/web/gl/content/familia-viaxeira" />
+<link rel="shortlink" href="http://escornabot.com/web/gl/node/24" />
+  <title>A Familia Viaxeira | Escornabot</title>  
+  <link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_sCZyELruzZsU-H603lC0fwMis5xoFBBkEwLLm2q2V1w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_u3j-FHH08vbG44bUJwRFYEJxzMZl1pjubFtUNjCut_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_2GfuzX7yYrfeWXzZAv2ZPpai5W2vNBGwP0X_-XcvhjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_TGJb4peQX-zPXkYpaPJ84mCM5BpWmXDDxHM6QS3jZis.css" media="all and (min-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_KewDO5wEEsc7lN4pHuveACu0xsD2jrJhTUcVZmmWkVs.css" media="all and (min-width: 760px) and (max-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_Ody3Rnnxl1jUn-gSkZfNONZA3PvWask0tHZzQnHYUIU.css" media="all and (max-width: 760px)" />
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_XjlpzNI0UdPssKtHTB8S9WmDv8dLNTg0hRh1g_dAC6w.css" media="all" />
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/all/themes/corporateclean/css/basic-layout.css?o31tla" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/all/themes/corporateclean/css/ie.css?o31tla" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://escornabot.com/web/sites/default/files/css/css_IZ7FyaTdrGToZPRvGz0tqmI8KYFXyahKCc9-h0vHDZM.css" media="all" />
+  
+    
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/web/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://escornabot.com/web/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="http://escornabot.com/web/sites/default/files/js/js_EYXWXF-vruo9VR8CsrXCKABa3c7WmJ_bYDX4wNy9cLA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-60492538-1", {"cookieDomain":".escornabot.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/web\/","pathPrefix":"gl\/","ajaxPageState":{"theme":"corporateclean","theme_token":"fn6WqR9Eqa5xhHlkHamVzvLj-8BVC7xFDWgDLbK8Z9Y","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/gl_BknkLzMZHB5qOGbJwy89_5v7-VkTxsFPRjxQTtfF2UU.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/corporateclean\/css\/960.css":1,"sites\/all\/themes\/corporateclean\/css\/720.css":1,"sites\/all\/themes\/corporateclean\/css\/mobile.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Activar pechar","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/web\/gl\/node\/24":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-24 node-type-page i18n-gl" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Ir o contido principal</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <a href="/web/gl" title="Inicio"><img src="http://escornabot.com/web/sites/default/files/logo_0.png" alt="Inicio" /></a>
+                 
+                        <div class="clearfix">
+                        <span id="site-name"><a href="/web/gl" title="Inicio">Escornabot</a></span>
+                                    </div>
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			  <div class="region region-search-area">
+    <div id="block-locale-language" class="block block-locale">
+
+
+<div class="content">
+<ul class="language-switcher-locale-url"><li class="en first"><a href="/web/en/content/travelling-family" class="language-link" xml:lang="en">English</a></li>
+<li class="es"><a href="/web/es/home/24" class="language-link" xml:lang="es">Español</a></li>
+<li class="gl last active"><a href="/web/gl/content/familia-viaxeira" class="language-link active" xml:lang="gl">Galego</a></li>
+</ul></div>
+</div><div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/web/gl/node/24" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulario de busca</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Buscar&#039;;}" onfocus="if (this.value == &#039;Buscar&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Buscar" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/web/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Eu5NcLo4z3yc4CDAadQiwqHa1gJmjTTNHFZOEy1LWB0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+            <ul class="menu"><li class="first leaf"><a href="/web/gl" title="">Inicio</a></li>
+<li class="leaf"><a href="/web/gl/what">Que</a></li>
+<li class="leaf"><a href="/web/gl/content/como" title="">Como</a></li>
+<li class="leaf active-trail"><a href="/web/gl/content/comunidade" title="" class="active-trail">Comunidade</a></li>
+<li class="last leaf"><a href="/web/gl/form/contacto">Contacto</a></li>
+</ul>            </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                
+                <div id="main" class="grid_12">    
+                    
+            <div class="breadcrumb"><a href="/web/gl">Inicio</a> <span class="breadcrumb-separator">/</span><a href="/web/gl/content/comunidade">Community</a> <span class="breadcrumb-separator">/</span>A Familia Viaxeira</div>            
+                   
+                 
+                        
+                        
+			                        <h1>A Familia Viaxeira</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-24" class="node node-page" about="/web/gl/content/familia-viaxeira" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="A Familia Viaxeira" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Escornabots polo mundo!</h2>
+
+<p>A rapazada quere xogar cos escornabots nas súas escolas, e aos escornabots lles encanta coñecer lugares novos! :)
+É por isto que os nosos robots favoritos tenden a xuntarse para percorrer mundo e facer novos amigos e amigas... son as Familias Viaxeiras!</p>
+
+<p><img src="http://escornabot.com/web/sites/default/files/node_attachs/xoanbarrionovo.jpg" alt="Escornabot no cole" title="Amorodo no cole de Barrionovo" /></p>
+
+<h2>Que é a Familia Viaxeira?</h2>
+
+<p>Queremos que sexan grupos de escornabots que se lancen ao camiño para visitar escolas, bibliotecas, academias de superheroes... Pasarán un tempo en cada lugar e logo seguirán a súa ruta para descubrir novas caras e novos sitios.
+Calquera entidade, grupo ou banda de persoas que queiran crear unha familia viaxeira e ser os seus patriarcas (ou matriarcas), conta co noso apoio e recoñecemento, animádevos! :D</p>
+
+<h2>Canto costa que veña a Familia Viaxeira?</h2>
+
+<p>Cada familia terá as súas propias condicións, pero non vos cobrarán cartos por dispoñer dela nin vos pedirán 17 ramos de rosas vermellas no seu camerino :)</p>
+
+<p>Isto non quere dicir que non teñades que facer nada... unha comunidade non se sostén se os seus usuarios e usuarias non aportan, así que seguro que se vos pedirá que colaboredes no proxecto. Se cadra pode ser que teñades que construír outro escornabot para a familia, que documentedes algunha actividade, que fagades unha <a href="http://escornabot.com/web/en/home/12">xornada escornabótida</a>... todo cousas sinxelas pero que vos permiten participar no desenvolvemento do escornabot e que poden facer moito para espallar polo mundo o espíritu da tecnoloxía libre e participativa! :)</p>
+
+<p><img src="http://escornabot.com/web/sites/default/files/node_attachs/familyframe.png" alt="Family Picture" title="Foto de familia" /></p>
+
+<h2>Como lles pido que veñan?</h2>
+
+<p>Moi doado! Na escornawiki iranse rexistrando as familias existentes e as condicións que cada unha pon para visitar o teu centro, así como os datos de contacto para que poidades facer a vosa solicitude. Busca a familia que máis perto che quede e non perdas máis tempo... os escornabots estánche a esperar! :)</p>
+
+<h2>Como podo crear unha familia viaxeira?</h2>
+
+<p>Felizmente, a robótica está a implantarse moi rapidamente na educación, e existe un interese enorme por parte dos centros en coñecer este mundo. Se ti tamén queres que as tecnoloxías coas que os pequenos e pequenas descubran o mundo da robótica sexan libres, abertas e de tod@s, anímate a facerte patriarca unha familia viaxeira e poñela a andar polo mundo! Para moitos centros, a inversión en robots comerciais pode ser un obstáculo insalvable, así que estarás tamén contribuíndo a que a robótica non sexa unha cuestión de cartos, senón de interese.</p>
+
+<p>Se ti a nivel persoal, o teu hackerspace, a túa comunidade de veciños... compartides este xeito de ver as cousas e queredes levar a robótica libre a máis nenos e nenas, simplemente tedes que <a href="http://escornabot.com/web/es/home/4">montar tres ou catro escornabots</a>, metelos nunha caixa, publicar na wiki as vosas condicións de préstamo, que non poden ser económicas, e poñelos a andar... outra familia de felices escornabots <em>on the road</em>! :)</p>
+
+<p>Para calquera axuda ao respecto, lembra que na nosa <a href="https://groups.google.com/forum/#!forum/escornabot_users">lista de correo</a> toda a comunidade está para botarche unha man na construcción dos robots ou calquera outra cousa que precises.</p>
+</div></div></div>  <div id="book-navigation-5" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/web/gl/content/comunidade" class="page-previous" title="Ir á páxina anterior">‹ Community</a>
+                    <a href="/web/gl/content/comunidade" class="page-up" title="Ir á páxina ascendente">arriba</a>
+                    <a href="/web/gl/content/xornada-escornabotida" class="page-next" title="Ir á seguinte páxina">Xornada escornabótida ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="en first last"><a href="/web/en/content/travelling-family" class="language-link" xml:lang="en">English</a></li>
+</ul></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+            <ul class="secondary-menu links clearfix"><li class="menu-383 first last"><a href="/web/gl/user/login" title="Login as authenticated user.">Login</a></li>
+</ul>            
+                        
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+    
+</div><!-- EOF: #footer -->  </body>
+</html>

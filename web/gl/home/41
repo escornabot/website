@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="gl" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://escornabot.com/web/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="up" href="/web/gl/home/32" />
+<meta name="MobileOptimized" content="width" />
+<meta name="description" content="New releases with new amazing features (well, sometimes not that amazing, ok...) are published every other month. Go to escornabot&#039;s github and download the latest Brivoi release." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://escornabot.com/web/gl/home/41" />
+<link rel="shortlink" href="https://escornabot.com/web/gl/node/41" />
+  <title>Upload Code | Escornabot</title>  
+  <link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_sCZyELruzZsU-H603lC0fwMis5xoFBBkEwLLm2q2V1w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_u3j-FHH08vbG44bUJwRFYEJxzMZl1pjubFtUNjCut_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_2GfuzX7yYrfeWXzZAv2ZPpai5W2vNBGwP0X_-XcvhjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_TGJb4peQX-zPXkYpaPJ84mCM5BpWmXDDxHM6QS3jZis.css" media="all and (min-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_KewDO5wEEsc7lN4pHuveACu0xsD2jrJhTUcVZmmWkVs.css" media="all and (min-width: 760px) and (max-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_Ody3Rnnxl1jUn-gSkZfNONZA3PvWask0tHZzQnHYUIU.css" media="all and (max-width: 760px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_XjlpzNI0UdPssKtHTB8S9WmDv8dLNTg0hRh1g_dAC6w.css" media="all" />
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/basic-layout.css?o31tla" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/ie.css?o31tla" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_IZ7FyaTdrGToZPRvGz0tqmI8KYFXyahKCc9-h0vHDZM.css" media="all" />
+  
+    
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/web/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_EYXWXF-vruo9VR8CsrXCKABa3c7WmJ_bYDX4wNy9cLA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-60492538-1", {"cookieDomain":".escornabot.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/web\/","pathPrefix":"gl\/","ajaxPageState":{"theme":"corporateclean","theme_token":"xy33SRrmbEXqYsBkff2gMVxv0qePu3GDAiaV1OrLWZc","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/gl_BknkLzMZHB5qOGbJwy89_5v7-VkTxsFPRjxQTtfF2UU.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/corporateclean\/css\/960.css":1,"sites\/all\/themes\/corporateclean\/css\/720.css":1,"sites\/all\/themes\/corporateclean\/css\/mobile.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Activar pechar","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/web\/gl\/home\/41":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-41 node-type-page i18n-gl" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Ir o contido principal</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <a href="/web/gl" title="Inicio"><img src="https://escornabot.com/web/sites/default/files/logo_0.png" alt="Inicio" /></a>
+                 
+                        <div class="clearfix">
+                        <span id="site-name"><a href="/web/gl" title="Inicio">Escornabot</a></span>
+                                    </div>
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			  <div class="region region-search-area">
+    <div id="block-locale-language" class="block block-locale">
+
+
+<div class="content">
+<ul class="language-switcher-locale-url"><li class="en first"><a href="/web/en/content/upload-code" class="language-link" xml:lang="en">English</a></li>
+<li class="es"><a href="/web/es/content/cargar-codigo" class="language-link" xml:lang="es">Español</a></li>
+<li class="gl last active"><a href="/web/gl/home/41" class="language-link active" xml:lang="gl">Galego</a></li>
+</ul></div>
+</div><div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/web/gl/home/41" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulario de busca</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Buscar&#039;;}" onfocus="if (this.value == &#039;Buscar&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Buscar" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/web/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Wyd3SA-fMZb6aWTLQJ4YFx29v_h0xxO_nvMoZfk3ggc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+            <ul class="menu"><li class="first leaf"><a href="/web/gl" title="">Inicio</a></li>
+<li class="leaf"><a href="/web/gl/what">Que</a></li>
+<li class="leaf active-trail"><a href="/web/gl/content/como" title="" class="active-trail">Como</a></li>
+<li class="leaf"><a href="/web/gl/content/comunidade" title="">Comunidade</a></li>
+<li class="last leaf"><a href="/web/gl/form/contacto">Contacto</a></li>
+</ul>            </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                
+                <div id="main" class="grid_12">    
+                    
+            <div class="breadcrumb"><a href="/web/gl">Inicio</a> <span class="breadcrumb-separator">/</span><a href="/web/gl/content/como">How to...</a> <span class="breadcrumb-separator">/</span><a href="/web/gl/home/32">Howto Audacius</a> <span class="breadcrumb-separator">/</span>Upload Code</div>            
+                   
+                 
+                        
+                        
+			                        <h1>Upload Code</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-41" class="node node-page" about="/web/gl/home/41" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Upload Code" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>New releases with new amazing features (well, sometimes not that amazing, ok...) are published every other month. Go to <a href="https://github.com/escornabot/arduino/releases">escornabot's github</a> and download the latest <em>Brivoi</em> release.</p>
+
+<p>Escornabot's firmware is a big piece of Arduino code so the first thing you have to do is download and install <a href="https://www.arduino.cc/en/Main/Software">Arduino IDE</a>. After that, you just have to upload the Escornabot firmware to your board. We are not going to explain how to do that here, we know that you are not going to give up on your Escornabot now that you are so close to the end, and we're sure that you will find out how to do it... there are plenty of tutorials over the web! This will be the final proof that you are now a proper self-guided maker! ;)</p>
+
+<p>Your <em>Audacius</em> should work right away, if it doesn't, or if you want to customize some of it's options (control via Bluetooth, different movements, different button actions...) you must change some things on the <em>Configuration.h</em> file.</p>
+
+<p>-- ToDo --
+Explain configuration file options. If you can't or don't want to wait, go to our <a href="https://groups.google.com/forum/#!forum/escornabot_users">user's list</a> and ask for help!</p>
+</div></div></div>  <div id="book-navigation-4" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/web/gl/home/38" class="page-previous" title="Ir á páxina anterior">‹ Wire connections</a>
+                    <a href="/web/gl/home/32" class="page-up" title="Ir á páxina ascendente">arriba</a>
+                    <a href="/web/gl/home/39" class="page-next" title="Ir á seguinte páxina">Howto Placidus ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="en first"><a href="/web/en/content/upload-code" class="language-link" xml:lang="en">English</a></li>
+<li class="es last"><a href="/web/es/content/cargar-codigo" class="language-link" xml:lang="es">Español</a></li>
+</ul></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+            <ul class="secondary-menu links clearfix"><li class="menu-383 first last"><a href="/web/gl/user/login" title="Login as authenticated user.">Login</a></li>
+</ul>            
+                        
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+    
+</div><!-- EOF: #footer -->  </body>
+</html>

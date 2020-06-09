@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://escornabot.com/web"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Escornabot - desarrollo</title>
+ <link>http://escornabot.com/web/en/desarrollo</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Brivoi is coming...</title>
+ <link>http://escornabot.com/web/en/2015-06-29/brivoi-coming</link>
+ <description>&lt;a href=&quot;/web/en/2015-06-29/brivoi-coming&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/brivoi_0.jpg?itok=M2qqBp0U&quot; alt=&quot;Brivoi is coming...&quot; title=&quot;Brivoi is coming...&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Probably, you have seen a new guy around us.. Its name is &lt;strong&gt;Brivoi&lt;/strong&gt; and it will be &lt;strong&gt;the new stable version of Escornabot&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;At the moment, it is completely operable (and handsome, of course) and, over the features, we want to remark the following ones:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Smaller, so the squares of the board could be smaller too (up to 10cm x 10cm). &lt;/li&gt;
+&lt;li&gt;Quicker movements over the squares. &lt;/li&gt;
+&lt;li&gt;Easier to assembly. &lt;/li&gt;
+&lt;li&gt;Less time to print the 3D pieces. &lt;/li&gt;
+&lt;li&gt;Recycling the pieces of previous version is possible (no new hardware inversions). &lt;/li&gt;
+&lt;li&gt;Availability of new specific electronic boards built for the Escornabot.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We hope to have clear and indexed manuals ASAP so that will relax your anxiety and you can build your own &lt;em&gt;brivoi&lt;/em&gt;. Meanwhile, you can browse our working drafts from the &lt;a href=&quot;http://www.escornabot.esy.es/P%C3%A1gina_principal&quot; title=&quot;wiki escornabot&quot;&gt;wiki&lt;/a&gt; and, of course, you can ask any question or suggestion in the &lt;a href=&quot;https://groups.google.com/forum/#!forum/escornabot_users&quot; title=&quot;donde se aclaran las dudas&quot;&gt;mailing lists&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/brivoi&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;brivoi&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/escornabot&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;escornabot&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/version&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;versión&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/desarrollo&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;desarrollo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2015-06-29/brivoi-se-acerca&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2015-06-29/brivoi-esta-vir&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Mon, 29 Jun 2015 20:24:37 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">29 at http://escornabot.com/web</guid>
+</item>
+</channel>
+</rss>

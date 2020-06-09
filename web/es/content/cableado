@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://escornabot.com/web/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="up" href="/web/es/content/howto-audacius" />
+<meta name="MobileOptimized" content="width" />
+<meta name="description" content="El cableado del escornabot es muy sencillo, Sólo necesitas unos cuantos (14-15) jumpers macho-hembra y seguir estos sencillos pasos. Conecta los motores a los drivers: ¡Fácil! únicamente se pueden conectar de la manera correcta y luego... Bueno, motor izquierdo a driver izquierdo, motor derecho a driver derecho. ¡Seguro que no te esperabas esto!" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://escornabot.com/web/es/content/cableado" />
+<link rel="shortlink" href="https://escornabot.com/web/es/node/38" />
+  <title>Cableado | Escornabot</title>  
+  <link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_sCZyELruzZsU-H603lC0fwMis5xoFBBkEwLLm2q2V1w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_u3j-FHH08vbG44bUJwRFYEJxzMZl1pjubFtUNjCut_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_2GfuzX7yYrfeWXzZAv2ZPpai5W2vNBGwP0X_-XcvhjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_TGJb4peQX-zPXkYpaPJ84mCM5BpWmXDDxHM6QS3jZis.css" media="all and (min-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_KewDO5wEEsc7lN4pHuveACu0xsD2jrJhTUcVZmmWkVs.css" media="all and (min-width: 760px) and (max-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_Ody3Rnnxl1jUn-gSkZfNONZA3PvWask0tHZzQnHYUIU.css" media="all and (max-width: 760px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_XjlpzNI0UdPssKtHTB8S9WmDv8dLNTg0hRh1g_dAC6w.css" media="all" />
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/basic-layout.css?o31tla" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/ie.css?o31tla" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_IZ7FyaTdrGToZPRvGz0tqmI8KYFXyahKCc9-h0vHDZM.css" media="all" />
+  
+    
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/web/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_pnktWFnI3lbyMsQ6mtqO1oNOEF6SUd50H4J5jkcqmEg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-60492538-1", {"cookieDomain":".escornabot.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/web\/","pathPrefix":"es\/","ajaxPageState":{"theme":"corporateclean","theme_token":"xHuJcmZWMODQuOAbi5tL4HZnvoRa5NhithQ5bBXhHnc","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/es_dwgnvRgxpySXhGxxmILWfVGYg2fRmwDxpJ-4VCLb3wE.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/corporateclean\/css\/960.css":1,"sites\/all\/themes\/corporateclean\/css\/720.css":1,"sites\/all\/themes\/corporateclean\/css\/mobile.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"colorbox":{"opacity":"0.85","current":"{current} de {total}","previous":"\u00ab Anterior","next":"Siguiente \u00bb","close":"Cerrar","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/web\/es\/content\/cableado":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-38 node-type-page i18n-es" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <a href="/web/es" title="Inicio"><img src="https://escornabot.com/web/sites/default/files/logo_0.png" alt="Inicio" /></a>
+                 
+                        <div class="clearfix">
+                        <span id="site-name"><a href="/web/es" title="Inicio">Escornabot</a></span>
+                                    </div>
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			  <div class="region region-search-area">
+    <div id="block-locale-language" class="block block-locale">
+
+
+<div class="content">
+<ul class="language-switcher-locale-url"><li class="en first"><a href="/web/en/content/wire-connections" class="language-link" xml:lang="en">English</a></li>
+<li class="es active"><a href="/web/es/content/cableado" class="language-link active" xml:lang="es">Español</a></li>
+<li class="gl last"><a href="/web/gl/home/38" class="language-link" xml:lang="gl">Galego</a></li>
+</ul></div>
+</div><div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/web/es/content/cableado" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulario de búsqueda</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Buscar&#039;;}" onfocus="if (this.value == &#039;Buscar&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Buscar" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/web/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cbFW3zI7z1hDuPBkXHvN7ktnMHd6GgCW7nIoEzQlrHo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+            <ul class="menu"><li class="first leaf"><a href="/web/es" title="">Inicio</a></li>
+<li class="leaf"><a href="/web/es/what">Qué</a></li>
+<li class="leaf active-trail"><a href="/web/es/home/4" title="" class="active-trail">Cómo</a></li>
+<li class="leaf"><a href="/web/es/content/comunidad" title="">Comunidad</a></li>
+<li class="last leaf"><a href="/web/es/form/contacto">Contacto</a></li>
+</ul>            </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                
+                <div id="main" class="grid_12">    
+                    
+            <div class="breadcrumb"><a href="/web/es">Inicio</a> <span class="breadcrumb-separator">/</span><a href="/web/es/home/4">How to...</a> <span class="breadcrumb-separator">/</span><a href="/web/es/content/howto-audacius">Howto Audacius</a> <span class="breadcrumb-separator">/</span>Cableado</div>            
+                   
+                 
+                        
+                        
+			                        <h1>Cableado</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-38" class="node node-page" about="/web/es/content/cableado" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Cableado" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>El cableado del escornabot es muy sencillo, Sólo necesitas unos cuantos (14-15) <a href="http://www.adafruit.com/images/970x728/x826-04.jpg.pagespeed.ic.8RwwCSvdd7.jpg" title="jumper wires">jumpers macho-hembra</a> y seguir estos sencillos pasos.</p>
+
+<h2>Conecta los motores a los drivers:</h2>
+
+<p>¡Fácil! únicamente se pueden conectar de la manera correcta y luego... Bueno, motor izquierdo a driver izquierdo, motor derecho a driver derecho. ¡Seguro que no te esperabas esto!</p>
+
+<h2>Conecta el Arduino en la breadboard</h2>
+
+<p>Con cuidado, conecta el Arduino en la breadboard. Asegúrate de dejar tres filas de la breadboard libres en el mismo lado que en la foto. A partir de ahora, puedes conectar cualquier pin del Arduino sólo con conectar la parte "macho" del jumper en la misma columna que dicho pin. Por ejemplo, ese cable naranja de la imagen se conectará don el pin D6 del Arduino.</p>
+
+<p><img src="https://escornabot.com/web/sites/default/files/node_attachs/arduinoenbreadboard.png" alt="Arduino on a Breadboard" title="Arduino on a breadboard" /></p>
+
+<h2>Conecta los drivers al Arduino.</h2>
+
+<p>Normalmente, los drivers tienen cuatro pines nombrados del IN1 al IN4, y dos pines separados llamados "+" y "-".</p>
+
+<p><img src="https://escornabot.com/web/sites/default/files/node_attachs/driveruln2003.png" alt="ULN2003Driver" title="driver ULN2003" /></p>
+
+<p>Necesitarás 12 jumpers macho-hembra para conectar cada pin del driver a una de las filas de la breadboard con el Arduino. Mira la foto y, sencillamente, ¡sigue la tabla!</p>
+
+<table><thead><tr><th>Driver izquierdo</th>
+  <th>Arduino</th>
+  <th>Driver derecho</th>
+  <th>Arduino</th>
+</tr></thead><tbody><tr><td>IN1</td>
+  <td>D9</td>
+  <td>IN1</td>
+  <td>D5</td>
+</tr><tr><td>IN2</td>
+  <td>D8</td>
+  <td>IN2</td>
+  <td>D4</td>
+</tr><tr><td>IN3</td>
+  <td>D7</td>
+  <td>IN3</td>
+  <td>D3</td>
+</tr><tr><td>IN4</td>
+  <td>D6</td>
+  <td>IN4</td>
+  <td>D2</td>
+</tr><tr><td>-</td>
+  <td>GND</td>
+  <td>-</td>
+  <td>GND</td>
+</tr><tr><td>+</td>
+  <td>VIN</td>
+  <td>+</td>
+  <td>VIN</td>
+</tr></tbody></table><h2>Conecta la botonera</h2>
+
+<p>Como ya hemos comentado anteriormente,si estás usando una botonera de dos hilos (default), sólo tienes que conectar el pin de arriba con el GND  del Arduino y el pin del centro a la entrada A4. Si estás usando una botonera de tres hilos (custom geeky configuration) también tienes que conectar el pin de abajo a 5V. ¡Mira la imagen!</p>
+
+<p><img src="https://escornabot.com/web/sites/default/files/node_attachs/keypadconnect.png" alt="Keypad Connection" title="keypad connections" /></p>
+
+<h2>Conecta el zumbador</h2>
+
+<p>Desafortunadamente, si estás usando un Arduino Nano, el zumbador no va apoder colocarse muy bien en la breadboard. Seguro que estás pensando que no somos unos diseñadores muy buenos. Tienes toda la razón, pero, por supuesto, ¡tenemos una excusa! (1).</p>
+
+<p>De todos modos, aunque no es muy elegante, tenemos una solución. Tienes que soldar dos trozos de hilo rígido en ambas patillas del zumbador, después conecta la patilla larga del zumbador, marcada como "+", al pin D10 y la patilla corta a GND. ¡Esperamos que veas a lo que nos referimos con estas dos preciosas fotos!</p>
+
+<p><img src="https://escornabot.com/web/sites/default/files/node_attachs/buzzeradaptado.png" alt="Adapted Buzzer" title="Adapted buzzer" /></p>
+
+<h2>Dale de comer!</h2>
+
+<p>Ya solo queda hacerle llegar al escornabot la energía que se merece... conecta el cable rojo que viene de la batería en el Vin del arduino y lleva el cable negro a GND. Es recomendable ponerle algún tipo de terminal macho en estos cables para que no se desconecten con demasiada facilidad.</p>
+
+<p>Con esto has terminado... sólo queda descargar el código a tu ordenador y cargarlo en el Arduino.</p>
+
+<hr /><p><em>(1) - Empezamos utilizando <a href="https://www.arduino.cc/en/.../ArduinoBoardProMini" title="Arduino Pro Mini">Arduino Pro Mini</a>, que es un poco más pequeño que el Nano, con lo que el zumbador cabía. El Pro Mini no tiene conexión USB, por lo que necesitas un conector especial para programarlo. Esa es la razón por la que cambiamos el controlador predeterminado a Arduino Nano, aunque ahora tienes que hacer esta  incómoda operación para conectarlo.</em></p>
+</div></div></div>  <div id="book-navigation-4" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/web/es/content/montando-chasis" class="page-previous" title="Ir a la página anterior">‹ Mount chassis</a>
+                    <a href="/web/es/content/howto-audacius" class="page-up" title="Ir a la página madre">arriba</a>
+                    <a href="/web/es/content/cargar-codigo" class="page-next" title="Ir a la página siguiente">Upload Code ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="en first last"><a href="/web/en/content/wire-connections" class="language-link" xml:lang="en">English</a></li>
+</ul></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+            <ul class="secondary-menu links clearfix"><li class="menu-383 first last"><a href="/web/es/user/login" title="Login as authenticated user.">Login</a></li>
+</ul>            
+                        
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+    
+</div><!-- EOF: #footer -->  </body>
+</html>

@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://escornabot.com/web/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="up" href="/web/es/content/howto-audacius" />
+<meta name="MobileOptimized" content="width" />
+<meta name="description" content="Como dijimos antes, para ser un verdadero constructor de robots audacius, tendrás que montar y soldar tu propia botonera. Explicaremos como hacerlo con todo el detalle posible, asumiendo que no estás familiarizado con este tipo de cosas. Si tienes algunos conocimientos de electrónica y de soldadura, seguro que te bastará con echar un vistazo a los esquemas. Así que... ¡Comencemos!" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://escornabot.com/web/es/content/botonera-audacius" />
+<link rel="shortlink" href="https://escornabot.com/web/es/node/35" />
+  <title>Botonera Audacius | Escornabot</title>  
+  <link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_sCZyELruzZsU-H603lC0fwMis5xoFBBkEwLLm2q2V1w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_u3j-FHH08vbG44bUJwRFYEJxzMZl1pjubFtUNjCut_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_2GfuzX7yYrfeWXzZAv2ZPpai5W2vNBGwP0X_-XcvhjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_TGJb4peQX-zPXkYpaPJ84mCM5BpWmXDDxHM6QS3jZis.css" media="all and (min-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_KewDO5wEEsc7lN4pHuveACu0xsD2jrJhTUcVZmmWkVs.css" media="all and (min-width: 760px) and (max-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_Ody3Rnnxl1jUn-gSkZfNONZA3PvWask0tHZzQnHYUIU.css" media="all and (max-width: 760px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_XjlpzNI0UdPssKtHTB8S9WmDv8dLNTg0hRh1g_dAC6w.css" media="all" />
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/basic-layout.css?o31tla" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/ie.css?o31tla" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_IZ7FyaTdrGToZPRvGz0tqmI8KYFXyahKCc9-h0vHDZM.css" media="all" />
+  
+    
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/web/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_pnktWFnI3lbyMsQ6mtqO1oNOEF6SUd50H4J5jkcqmEg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-60492538-1", {"cookieDomain":".escornabot.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/web\/","pathPrefix":"es\/","ajaxPageState":{"theme":"corporateclean","theme_token":"tcXGi46Q0ImIrNyRO-SwsZbKm2YK-WT-46G5nxWryzs","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/es_dwgnvRgxpySXhGxxmILWfVGYg2fRmwDxpJ-4VCLb3wE.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/corporateclean\/css\/960.css":1,"sites\/all\/themes\/corporateclean\/css\/720.css":1,"sites\/all\/themes\/corporateclean\/css\/mobile.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"colorbox":{"opacity":"0.85","current":"{current} de {total}","previous":"\u00ab Anterior","next":"Siguiente \u00bb","close":"Cerrar","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/web\/es\/node\/35":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-35 node-type-page i18n-es" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <a href="/web/es" title="Inicio"><img src="https://escornabot.com/web/sites/default/files/logo_0.png" alt="Inicio" /></a>
+                 
+                        <div class="clearfix">
+                        <span id="site-name"><a href="/web/es" title="Inicio">Escornabot</a></span>
+                                    </div>
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			  <div class="region region-search-area">
+    <div id="block-locale-language" class="block block-locale">
+
+
+<div class="content">
+<ul class="language-switcher-locale-url"><li class="en first"><a href="/web/en/content/audacius-keypad" class="language-link" xml:lang="en">English</a></li>
+<li class="es active"><a href="/web/es/content/botonera-audacius" class="language-link active" xml:lang="es">Español</a></li>
+<li class="gl last"><a href="/web/gl/home/35" class="language-link" xml:lang="gl">Galego</a></li>
+</ul></div>
+</div><div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/web/es/node/35" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulario de búsqueda</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Buscar&#039;;}" onfocus="if (this.value == &#039;Buscar&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Buscar" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/web/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-1qjvyUGiTa0x__W2MrjD1i4lLI7OK_nvy8ohqRxPt_g" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+            <ul class="menu"><li class="first leaf"><a href="/web/es" title="">Inicio</a></li>
+<li class="leaf"><a href="/web/es/what">Qué</a></li>
+<li class="leaf active-trail"><a href="/web/es/home/4" title="" class="active-trail">Cómo</a></li>
+<li class="leaf"><a href="/web/es/content/comunidad" title="">Comunidad</a></li>
+<li class="last leaf"><a href="/web/es/form/contacto">Contacto</a></li>
+</ul>            </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                
+                <div id="main" class="grid_12">    
+                    
+            <div class="breadcrumb"><a href="/web/es">Inicio</a> <span class="breadcrumb-separator">/</span><a href="/web/es/home/4">How to...</a> <span class="breadcrumb-separator">/</span><a href="/web/es/content/howto-audacius">Howto Audacius</a> <span class="breadcrumb-separator">/</span>Botonera Audacius</div>            
+                   
+                 
+                        
+                        
+			                        <h1>Botonera Audacius</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-35" class="node node-page" about="/web/es/content/botonera-audacius" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Botonera Audacius" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Como dijimos antes, para ser un verdadero constructor de robots <em>audacius</em>, tendrás que montar y soldar tu propia botonera. Explicaremos como hacerlo con todo el detalle posible, asumiendo que no estás familiarizado con este tipo de cosas. Si tienes algunos conocimientos de electrónica y de soldadura, seguro que te bastará con echar un vistazo a los esquemas.</p>
+
+<p>Así que... ¡Comencemos!</p>
+
+<h2>¿Es la primera vez que vas a soldar?</h2>
+
+<p>Aunque no hayas soldado antes, no es tan difícil. Consiste únicamente en poner un punto de soldadura en cada agujero en el que se coloca un componente, asegurándose de hay conexión eléctrica con la placa y conexión mecánica que evite que el componente se caiga. Te recomendamos que eches un vistazo a  este <a href="https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf">fantástico cómic</a>, Sólo te llevará 15 minutos y sabrás todo lo que necesitas saber.</p>
+
+<h2>Comrueba el material</h2>
+
+<p>Esto es lo que deberías tener a mano para comenzar a montar la botonera:</p>
+
+<table><thead><tr><th align="left">Componente</th>
+  <th align="right">Cantidad</th>
+</tr></thead><tbody><tr><td align="left"><a href="http://www.taydaelectronics.com/small-stripboard-94x53mm-copper.html"> Stripboard1 de 8X17 líneas </a></td>
+  <td align="right">1</td>
+</tr><tr><td align="left"><a href="http://www.taydaelectronics.com/tact-switch-6x6mm-5mm-through-hole-spst-no.html">Pulsador 6x6 mm SPST-NO</a></td>
+  <td align="right">5</td>
+</tr><tr><td align="left"><a href="http://www.taydaelectronics.com/resistors/1-4w-carbon-film-resistors/10-x-resistor-1k-ohm-1-4w-5-carbon-film-pkg-of-10.html">Resistencia de 10KΩ (1/4 watt)</a></td>
+  <td align="right">6</td>
+</tr><tr><td align="left"><a href="http://www.taydaelectronics.com/resistors/1-4w-carbon-film-resistors/10-x-resistor-1-0m-ohm-1-4w-5-carbon-film-pkg-of-10.html">Resistencia de 1MΩ (1/4 watt)</a></td>
+  <td align="right">1</td>
+</tr><tr><td align="left"><a href="http://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/producto/DetalleProducto.jsp?idIdioma=&amp;idTienda=93&amp;codProducto=132700010&amp;cPath=1218">Hilo rígido de 0.28 mm2</a></td>
+  <td align="right">1</td>
+</tr><tr><td align="left"><a href="http://www.taydaelectronics.com/wafer-connector-2-54mm-3-pins-right-angle.html">Conectores en ángulo recto 2.54 </a> (U otros conectores de tu elección)</td>
+  <td align="right">1</td>
+</tr><tr><td align="left"><a href="http://www.ebay.com/sch/i.html?_from=R40&amp;_trksid=p2050601.m570.l1313.TR3.TRC1.A0.H0.Xmale+header+pins.TRS0&amp;_nkw=male+header+pins&amp;_sacat=0">Pines de conexión (macho)</a> (opcional)</td>
+  <td align="right">2</td>
+</tr><tr><td align="left"><a href="http://www.ebay.com/sch/i.html?_odkw=jumper+connector&amp;_osacat=0&amp;_from=R40&amp;_trksid=p2045573.m570.l1313.TR10.TRC0.A0.H0.Xjumper+cap.TRS0&amp;_nkw=jumper+cap&amp;_sacat=0">Jumper Cap</a> (opcional)</td>
+  <td align="right">1</td>
+</tr></tbody></table><h2>Cortando la stripboard</h2>
+
+<p>Probablemente no encuentres una stripboard del tamaño exacto que requerimos. No es ningún problema, sólo tienes que cortarla, ¡y es muy fácil!</p>
+
+<p>Te recomendamos que veas este <a href="https://www.youtube.com/watch?v=PN9VbGabhoE">vídeo</a> , ponte unos guantes y... ¡en marcha!</p>
+
+<h2>Cortar las líneas de la stripboard</h2>
+
+<p>Con un cuchillo afilado o cutter, tendrás que hacer dos cortes en la stripboard. Con mucho cuidado, tendrás que cortar un poco de cobre en los lugares marcados en rojo, de tal forma que no haya conexión eléctrica entre los agujeros de los lados.</p>
+
+<p><img src="https://escornabot.com/web/sites/default/files/node_attachs/keypadcuts.png" alt="Keypad Cuts" title="cut keypad" /></p>
+
+<h2>Taladros</h2>
+
+<p>Con un taladro con broca de 3 mm.,haz cuatro taladros, exactamente sobre  los agujeros de la stripboard que marcamos en verde.</p>
+
+<p><img src="https://escornabot.com/web/sites/default/files/node_attachs/keypaddrills.png" alt="Keypad Drills" title="drill keypad" /></p>
+
+<h2>Colocar los componentes</h2>
+
+<p>La colocación está explicada detalladamente en la <a href="http://escornawiki.org/Anexo:Teclado_(Brivoi)">wiki</a>. Los pulsadores se mantienen en su sitio bastante bien, pero las resistencias y el hilo tienden a caerse de la placa cuando le das la vuelta. Para evitarlo, debes doblar las patillas formando un ángulo de forma que no se deslicen por los agujeros fácilmente.
+Esta es la posición final de los componentes.
+<img src="https://escornabot.com/web/sites/default/files/node_attachs/keypafin_0.png" alt="component face" /></p>
+
+<p><strong>NOTA</strong>: ¿Ves los dos cuadrados negros señalados con una flecha rosa? Son los dos <a href="http://www.ebay.com/sch/i.html?_from=R40&amp;_trksid=p2050601.m570.l1313.TR3.TRC1.A0.H0.Xmale+header+pins.TRS0&amp;_nkw=male+header+pins&amp;_sacat=0">pines de conexión</a> opcionales que dijimos. Sólo necesitas ponerlos en el caso de que quieras trabajar con la configuración de de tres cables en tu botonera. El firmware del Escornabot está definido por defecto para una configuración de dos cables, así que si no estás seguro de lo que hacer, simplemente no pongas este componente.</p>
+
+<h2>Soldar los componentes</h2>
+
+<p>Bueno... has leído el cómic, ¿no? Entonces, ya sabes cómo hacerlo... ¡Adelante! :)</p>
+</div></div></div>  <div id="book-navigation-4" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/web/es/content/bom-brivoi-audacius" class="page-previous" title="Ir a la página anterior">‹ BOM Brivoi Audacius</a>
+                    <a href="/web/es/content/howto-audacius" class="page-up" title="Ir a la página madre">arriba</a>
+                    <a href="/web/es/content/comprobacion-y-configuracion-de-las-lecturas-de-botonera" class="page-next" title="Ir a la página siguiente">Check and configure keypad readings ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="en first last"><a href="/web/en/content/audacius-keypad" class="language-link" xml:lang="en">English</a></li>
+</ul></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+            <ul class="secondary-menu links clearfix"><li class="menu-383 first last"><a href="/web/es/user/login" title="Login as authenticated user.">Login</a></li>
+</ul>            
+                        
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+    
+</div><!-- EOF: #footer -->  </body>
+</html>

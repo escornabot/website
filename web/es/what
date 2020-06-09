@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<link rel="shortcut icon" href="https://escornabot.com/web/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas. El Escornabot básico puede programarse con los botones para ejecutar secuencias de movimientos. A partir de aquí, la imaginación es el único límite en las posibilidades. - ¡Eh! ¡Eso que describes se parece mucho a Bee-Bot! - Sí, pero mucho mejor por varias razones. Entre ellas, voy a destacar algunas:" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://escornabot.com/web/es/what" />
+<link rel="shortlink" href="https://escornabot.com/web/es/node/3" />
+  <title>¿Qué es un Escornabot? | Escornabot</title>  
+  <link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_sCZyELruzZsU-H603lC0fwMis5xoFBBkEwLLm2q2V1w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_u3j-FHH08vbG44bUJwRFYEJxzMZl1pjubFtUNjCut_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_2GfuzX7yYrfeWXzZAv2ZPpai5W2vNBGwP0X_-XcvhjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_TGJb4peQX-zPXkYpaPJ84mCM5BpWmXDDxHM6QS3jZis.css" media="all and (min-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_KewDO5wEEsc7lN4pHuveACu0xsD2jrJhTUcVZmmWkVs.css" media="all and (min-width: 760px) and (max-width: 980px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_Ody3Rnnxl1jUn-gSkZfNONZA3PvWask0tHZzQnHYUIU.css" media="all and (max-width: 760px)" />
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_XjlpzNI0UdPssKtHTB8S9WmDv8dLNTg0hRh1g_dAC6w.css" media="all" />
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/basic-layout.css?o31tla" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/all/themes/corporateclean/css/ie.css?o31tla" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://escornabot.com/web/sites/default/files/css/css_IZ7FyaTdrGToZPRvGz0tqmI8KYFXyahKCc9-h0vHDZM.css" media="all" />
+  
+    
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/web/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="https://escornabot.com/web/sites/default/files/js/js_pnktWFnI3lbyMsQ6mtqO1oNOEF6SUd50H4J5jkcqmEg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-60492538-1", {"cookieDomain":".escornabot.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/web\/","pathPrefix":"es\/","ajaxPageState":{"theme":"corporateclean","theme_token":"F3lASm2i77LmQMe7f4KhxyKKvPSthFm7Kz6Pfp7idTQ","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/es_dwgnvRgxpySXhGxxmILWfVGYg2fRmwDxpJ-4VCLb3wE.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/corporateclean\/css\/960.css":1,"sites\/all\/themes\/corporateclean\/css\/720.css":1,"sites\/all\/themes\/corporateclean\/css\/mobile.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"colorbox":{"opacity":"0.85","current":"{current} de {total}","previous":"\u00ab Anterior","next":"Siguiente \u00bb","close":"Cerrar","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/web\/es\/what":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3 node-type-page i18n-es" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <a href="/web/es" title="Inicio"><img src="https://escornabot.com/web/sites/default/files/logo_0.png" alt="Inicio" /></a>
+                 
+                        <div class="clearfix">
+                        <span id="site-name"><a href="/web/es" title="Inicio">Escornabot</a></span>
+                                    </div>
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			  <div class="region region-search-area">
+    <div id="block-locale-language" class="block block-locale">
+
+
+<div class="content">
+<ul class="language-switcher-locale-url"><li class="en first"><a href="/web/en/what" class="language-link" xml:lang="en" title="What">English</a></li>
+<li class="es active"><a href="/web/es/what" class="language-link active" xml:lang="es" title="Qué">Español</a></li>
+<li class="gl last"><a href="/web/gl/what" class="language-link" xml:lang="gl" title="Que">Galego</a></li>
+</ul></div>
+</div><div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/web/es/what" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulario de búsqueda</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Buscar&#039;;}" onfocus="if (this.value == &#039;Buscar&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Buscar" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/web/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Gx3eDlAKyw0pIQkYZvIXqK4bFy0ubMo_uHM0dwv2DJA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+            <ul class="menu"><li class="first leaf"><a href="/web/es" title="">Inicio</a></li>
+<li class="leaf active-trail"><a href="/web/es/what" class="active-trail active">Qué</a></li>
+<li class="leaf"><a href="/web/es/home/4" title="">Cómo</a></li>
+<li class="leaf"><a href="/web/es/content/comunidad" title="">Comunidad</a></li>
+<li class="last leaf"><a href="/web/es/form/contacto">Contacto</a></li>
+</ul>            </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                
+                <div id="main" class="grid_12">    
+                    
+            <div class="breadcrumb"><a href="/web/es">Inicio</a> <span class="breadcrumb-separator">/</span>¿Qué es un Escornabot?</div>            
+                   
+                 
+                        
+                        
+			                        <h1>¿Qué es un Escornabot?</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-3" class="node node-page" about="/web/es/what" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="¿Qué es un Escornabot?" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><em>Escornabot</em></strong> es un proyecto de código/hardware abierto cuyo objetivo es <strong>acercar la robótica y la programación a los niños y niñas</strong>.</p>
+
+<p>El <em>Escornabot</em> básico puede programarse con los botones para ejecutar secuencias de movimientos. A partir de aquí, la imaginación es el único límite en las posibilidades.</p>
+
+<p>- ¡Eh! ¡Eso que describes se parece mucho a <em>Bee-Bot</em>!</p>
+
+<p>- Sí, pero mucho mejor por varias razones. Entre ellas, voy a destacar algunas:</p>
+
+<ol><li><p><strong>Lo haces tú</strong>. Y tus alumnos, hijos, primos pequeños... Cualquiera puede ayudar participando en el proceso desde el principio. El placer de fabricar tu propio <em>escornabot</em> hace que sea una experiencia estupenda, sobre todo si hay niños participando.</p></li>
+<li><p>Es un proyecto de <strong>hardware abierto (OSHW) y software libre (FOSS)</strong> y puedes adaptar sus características a tus necesidades: ponerle sensores, leds, cambiar la apertura del ángulo de giro, la distancia que avanza... cualquier cosa que se te ocurra.</p></li>
+<li><p>Es (por precio) <strong>más asequible que otros robots educativos comerciales</strong>. Montar un <em>escornabot</em> puede costar menos de 20€ si sabes donde comprar los componentes (por internet). Este precio no es su valor porque lleva tiempo de trabajo y otros costes indirectos (especialmente la impresión 3D de las piezas).</p></li>
+</ol><p>Este vídeo es la presentación del proyecto que hizo <a href="https://twitter.com/procastino">@procastino</a> (en gallego, -pronto- con subtítulos en castellano) en el <a href="http://makerslugo.org/evento/arduino-day-2015/"><em>Arduino Day 2015</em></a> organizado] por Makers Lugo.</p>
+
+<p></p><div id="node-26" class="node node-external-video" about="/web/es/home/26" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/web/es/home/26">Arduino Day 2015 - "Escornabot: robótica educativa aberta" (Tucho Méndez)</a></h2>
+    <span property="dc:title" content="Arduino Day 2015 - &quot;Escornabot: robótica educativa aberta&quot; (Tucho Méndez)" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2015-04-13T13:42:39+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Enviado por <span class="username" xml:lang="" about="/web/es/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">escornamaster</span> el Lun, 13/04/2015 - 13:42</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-video field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><div class="media-youtube-video media-youtube-1">
+  <iframe class="media-youtube-player" width="596" height="390" title="Czaiu6NDMSw" src="//www.youtube.com/embed/Czaiu6NDMSw?wmode=opaque" frameborder="0" allowfullscreen="">Video of Czaiu6NDMSw</iframe>
+</div>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"></div>
+    
+      </div>
+
+</div>
+
+<h2>Filosofía</h2>
+
+<p>Es un projecto de <a href="http://es.wikipedia.org/wiki/Hardware_libre">open hardware</a> y <a href="http://es.wikipedia.org/wiki/Software_libre">software libre</a>, lo que significa que es abierto a la comunidad y a cualquiera (incluyéndote a ti) que pueda contribuir a su evolución. Si quieres aportar algún cariño a este projecto, en forma de nuevas funcionalidades, rediseño, documentación o lo que sea, estaremos <a href="https://escornabot.com/web/en/form/contact">encantados de leer tus ideas y sugerencias</a>.</p>
+
+<h2>Preguntas frecuentes y sus respuestas</h2>
+
+<ul><li><p><strong>¿De dónde viene el nombre <em>Escornabot</em>?</strong> Es una composición acertada de <em>escornaboi</em> y <em>robot</em> (<em>escorna</em> + <em>bot</em>). <em>Escornaboi</em> es la palabra en gallego para el <a href="http://es.wikipedia.org/wiki/Lucanus_cervus">lucanus cervus</a> (ciervo volante, el mayor escarabajo conocido en el universo). Por otro lado, creemos que el Escornabot es el <a href="https://www.youtube.com/watch?v=fuE7P22zBrQ">aniquilador definitivo del Beebot</a>.</p></li>
+<li><p><strong>¿Cuándo y dónde empezó el proyecto?</strong> Nació en  <a href="http://www.bricolabs.cc"><em>Bricolabs Hacklab</em></a> en un memorable día de julio de 2014. Más información <a href="http://escornabot.com/web/en/content/history">aquí</a>.</p></li>
+</ul></div></div></div>  <div id="book-navigation-3" class="book-navigation">
+    <ul class="menu"><li class="first leaf"><a href="/web/es/content/historia">History</a></li>
+<li class="last leaf"><a href="/web/es/content/logotipo-de-escornabot">The Escornabot&#039;s Logo</a></li>
+</ul>
+        <div class="page-links clearfix">
+                          <a href="/web/es/content/historia" class="page-next" title="Ir a la página siguiente">History ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="en first"><a href="/web/en/what" class="language-link" xml:lang="en" title="What">English</a></li>
+<li class="gl last"><a href="/web/gl/what" class="language-link" xml:lang="gl" title="Que">Galego</a></li>
+</ul></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+            <ul class="secondary-menu links clearfix"><li class="menu-383 first last"><a href="/web/es/user/login" title="Login as authenticated user.">Login</a></li>
+</ul>            
+                        
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+    
+</div><!-- EOF: #footer -->  </body>
+</html>

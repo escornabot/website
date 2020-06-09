@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://escornabot.com/web"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Escornabot</title>
+ <link>http://escornabot.com/web</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>iOS and Android mobile apps to drive the Escornabot</title>
+ <link>http://escornabot.com/web/en/2018-02-18/ios-and-android-mobile-apps-drive-escornabot</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/ismaserrano&quot;&gt;Ismael Serrano&lt;/a&gt; and &lt;a href=&quot;https://mgesteiro.com/me.html&quot;&gt;Miguel Gesteiro&lt;/a&gt; have already released a &lt;strong&gt;mobile application for Android and IOS to drive the Escornabot via Bluetooth Low Energy&lt;/strong&gt;. It is available at iOS App Store and the Android Play:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/es/app/escornabot-ble/id1349357499?mt=8&quot;&gt;iOS app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.escornabotmobile&quot;&gt;Android App&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The source code is licensed under the MIT license and &lt;a href=&quot;https://github.com/ismaserrano/EscornaBotMobile&quot;&gt;published at github&lt;/a&gt;. Thanks to the developers for their great job!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://groups.google.com/forum/?utm_medium=email&amp;amp;utm_source=footer#!msg/escornabot_users/-tvZgA2_tU0/B0iUR1PnCwAJ&quot;&gt;Original message&lt;/a&gt; (in Spanish) posted on the Escornabot Users mailing list.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2018-02-18/aplicaciones-moviles-ios-y-android-para-manejar-escornabot&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2018-02-18/aplicacions-mobiles-ios-e-android-para-manexar-o-escornabot&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Sun, 18 Feb 2018 12:56:51 +0000</pubDate>
+ <dc:creator>escornagod</dc:creator>
+ <guid isPermaLink="false">50 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>First CloneWars+AbiertoCC challenge </title>
+ <link>http://escornabot.com/web/en/2017-06-11/first-clonewarsabiertocc-challenge</link>
+ <description>&lt;a href=&quot;/web/en/2017-06-11/first-clonewarsabiertocc-challenge&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/lourdes_pieces.jpg?itok=Ghudu8Y2&quot; alt=&quot;First CloneWars+AbiertoCC challenge &quot; title=&quot;First CloneWars+AbiertoCC challenge &quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &lt;strong&gt;&lt;em&gt;CloneWars&lt;/em&gt; 3D printing community&lt;/strong&gt; has launched the first challenge to its members in order to print &lt;em&gt;Escornabot&lt;/em&gt; bodies. Collected pieces will be joined with the vitamins needed to complete 4 full &lt;em&gt;Escornabot&lt;/em&gt; Kits in collaboration with &lt;a href=&quot;https://www.abierto.cc/blog/post/4323/Algo-m%C3%A1s-sobre-el-equipo-de-abierto/&quot;&gt;Abierto.cc&lt;/a&gt; and donated to a state school of Madrid region.&lt;/p&gt;
+
+&lt;p&gt;Further info: &lt;a href=&quot;https://groups.google.com/d/msgid/asrob-uc3m-impresoras-3d/CABqHetD5Z0Z1gTXpAH_QFP5wYZLQg40GDJp%2B5vqT%3DLvVJeunCg%40mail.gmail.com?utm_medium=email&amp;amp;utm_source=footer&quot;&gt;forum thread &quot;Reto colaborativo para @Escornabot desde @abiertocc&quot;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Photo by &lt;a href=&quot;http://lourdesvirtual.com/webdewp/la-fabrica-3d-de-la-clase-roja/&quot;&gt;Lourdes Virtual&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2017-06-11/primer-reto-clonewarsabiertocc&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2017-06-11/primeiro-reto-clonewarsabiertocc&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Sun, 11 Jun 2017 14:25:51 +0000</pubDate>
+ <dc:creator>escornagod</dc:creator>
+ <guid isPermaLink="false">45 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>Another one year, Escornabot at Galician schools</title>
+ <link>http://escornabot.com/web/en/2017-04-21/another-one-year-escornabot-galician-schools</link>
+ <description>&lt;a href=&quot;/web/en/2017-04-21/another-one-year-escornabot-galician-schools&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/bibliotecas_galicia.jpg?itok=FZn3t4x7&quot; alt=&quot;Another one year, Escornabot at Galician schools&quot; title=&quot;Another one year, Escornabot at Galician schools&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Last year, regional administration of Galicia pushed an &lt;a href=&quot;http://www.edu.xunta.es/biblioteca/blog/?q=node/860&quot;&gt;experimental learning program aimed for teachers of primary education&lt;/a&gt;. The goal was to promote student introduction into Robotics, of course, using our favourite robot completely designed with Free Software and Open Source by the &lt;a href=&quot;https://escornabot.com/web/en/content/community&quot;&gt;Escornabot&#039;s community&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After the &lt;a href=&quot;https://www.edu.xunta.es/biblioteca/blog/?q=category/19/87&quot;&gt;good evaluation and results of the experience in 2016&lt;/a&gt;, the &lt;a href=&quot;http://www.xunta.gal/notas-de-prensa/-/nova/20365/xunta-abre-convocatoria-para-que-20-novos-centros-incorporen-proxecto-escornabots&quot;&gt;same program has been launched this year and it will be selected 20 schools in Galicia for execution&lt;/a&gt;. The &lt;strong&gt;deadline to apply the current program is April 27, 2017&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;http://www.edu.xunta.gal/eduga/1227/biblioteca-escolar/un-escornabot-na-biblioteca-escolar&quot;&gt;Bibliotecas de Galicia&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2017-04-21/ano-mas-escornabot-en-las-escuelas-gallegas&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2017-04-21/ano-mais-escornabot-nas-escolas-galegas&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Fri, 21 Apr 2017 15:25:14 +0000</pubDate>
+ <dc:creator>escornagod</dc:creator>
+ <guid isPermaLink="false">44 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>Familia Viaxeira dispoñible!</title>
+ <link>http://escornabot.com/web/en/home/42</link>
+ <description>&lt;a href=&quot;/web/en/home/42&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/dsc_0873.jpg?itok=rprh6GeF&quot; alt=&quot;Familia Viaxeira dispoñible!&quot; title=&quot;Familia Viaxeira dispoñible!&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Os Patrucios&lt;/em&gt; (a familia viaxeira do Equipo Escornabot) xa están de novo dispoñibles!&lt;/p&gt;
+
+&lt;p&gt;Despois dunhas &lt;a href=&quot;http://oquebule3.blogspot.com.es/search/label/Proxecto%20Escornabot&quot;&gt;tremendas experiencias&lt;/a&gt; no CEIP Victor López Seoane de A Coruña, das que axiña teredes ampla documentación na &lt;a href=&quot;http://www.escornabot.esy.es/P%C3%A1gina_principal&quot;&gt;escornawiki&lt;/a&gt;, os escornabots viaxeiros están dispostos a facerse ao camiño e coñecer novos horizontes!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Se es mestra ou mestre e queres que os &lt;em&gt;Patrucios&lt;/em&gt; vaian polo teu cole, podes facer xa a túa solicitude.&lt;/p&gt;
+
+&lt;p&gt;Como sabemos que hai moita xente con ganas de recibilos, imos poñernos exquisitos e pedirvos que saquedes as medallas do caixón e nos amosedes todo o marabilloso que facedes no voso centro. Mandádenos no correo un resumo de por que deberiamos poñervos de primeiros na lista de espera da famila dos &lt;em&gt;Patrucios&lt;/em&gt;.  Non é preciso que vos estendades moito, o que quereríamos ver é que vos gusta tanto como a nós difundir e compartir o voso traballo cos demais, así que incluíde todas as ligazóns a blogs, webs, redes sociais...  que amosen que non vos quedades para vós o que facedes e sabedes.&lt;/p&gt;
+
+&lt;p&gt;Se ademais traballades no voso cole con Software Libre, aínda mellor! (calquera cousa conta, desde usar LibreOffice nos vosos documentos ata ter Linux instalado na aula de informática). Por cuestións prácticas, tamén teremos que valorar a cercanía do voso colexio ao centro de operacións do Equipo Escornabot, situado en A Coruña, xa que nos gusta estar a man para calquera eventualidade.&lt;/p&gt;
+
+&lt;p&gt;Unha última condición que tamén é unha oportunidade... xunto coa familia irá un escornabot en pezas que teredes que montar durante o tempo que teñades con vós aos &lt;em&gt;Patrucios&lt;/em&gt;! Dese xeito, aprenderedes non só a usar o escornabot, senón tamén a construílo, e ademais colaboraredes coa comunidade cun novo escornabot viaxeiro que irá polos centros de Galicia dando fe da vosa aportación ;)&lt;/p&gt;
+
+&lt;p&gt;Tedes de prazo para mandarnos a vosa solicitude ata o día &lt;strong&gt;18 de Xaneiro&lt;/strong&gt;, e nesa mesma semana publicaremos o centro que recibirá a visita dos &lt;em&gt;Patrucios&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;E se es membro dun hackerspace, unha asociación de veciños, ou calquera colectivo que poida querer participar da cultura libre levando a robótica aos nenos e nenos de calquera parte do mundo, lembra que podedes crear a vosa propia &lt;a href=&quot;https://escornabot.com/web/gl/content/familia-viaxeira&quot; title=&quot;familia viaxeira&quot;&gt;familia viaxeira&lt;/a&gt; e inscribila no &lt;a href=&quot;http://www.escornabot.esy.es/Familias&quot; title=&quot;rexistro de familias&quot;&gt;rexistro&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;gl first last&quot;&gt;&lt;a href=&quot;/web/gl/2016-01-05/familia-viaxeira-disponible&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Tue, 05 Jan 2016 19:55:49 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">42 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>We&#039;re working here!</title>
+ <link>http://escornabot.com/web/en/2015-07-21/were-working-here</link>
+ <description>&lt;a href=&quot;/web/en/2015-07-21/were-working-here&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/placidusdesmontadoesc.jpg?itok=JwQwBBUS&quot; alt=&quot;We&amp;#039;re working here!&quot; title=&quot;We&amp;#039;re working here!&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We are working on the web!&lt;/p&gt;
+
+&lt;p&gt;We are trying to get the new version of Escornabot fully documented, so we are making changes on the web. If you find something broken or that doesn&#039;t work as expected, please, be patient!
+ We hope that it will be solved as soon as possible...&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2015-07-21/were-working-here&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2015-07-21/estamos-traballar&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Tue, 21 Jul 2015 09:52:35 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">34 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>Brivoi is coming...</title>
+ <link>http://escornabot.com/web/en/2015-06-29/brivoi-coming</link>
+ <description>&lt;a href=&quot;/web/en/2015-06-29/brivoi-coming&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/brivoi_0.jpg?itok=M2qqBp0U&quot; alt=&quot;Brivoi is coming...&quot; title=&quot;Brivoi is coming...&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Probably, you have seen a new guy around us.. Its name is &lt;strong&gt;Brivoi&lt;/strong&gt; and it will be &lt;strong&gt;the new stable version of Escornabot&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;At the moment, it is completely operable (and handsome, of course) and, over the features, we want to remark the following ones:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Smaller, so the squares of the board could be smaller too (up to 10cm x 10cm). &lt;/li&gt;
+&lt;li&gt;Quicker movements over the squares. &lt;/li&gt;
+&lt;li&gt;Easier to assembly. &lt;/li&gt;
+&lt;li&gt;Less time to print the 3D pieces. &lt;/li&gt;
+&lt;li&gt;Recycling the pieces of previous version is possible (no new hardware inversions). &lt;/li&gt;
+&lt;li&gt;Availability of new specific electronic boards built for the Escornabot.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We hope to have clear and indexed manuals ASAP so that will relax your anxiety and you can build your own &lt;em&gt;brivoi&lt;/em&gt;. Meanwhile, you can browse our working drafts from the &lt;a href=&quot;http://www.escornabot.esy.es/P%C3%A1gina_principal&quot; title=&quot;wiki escornabot&quot;&gt;wiki&lt;/a&gt; and, of course, you can ask any question or suggestion in the &lt;a href=&quot;https://groups.google.com/forum/#!forum/escornabot_users&quot; title=&quot;donde se aclaran las dudas&quot;&gt;mailing lists&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/brivoi&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;brivoi&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/escornabot&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;escornabot&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/version&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;versión&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/desarrollo&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;desarrollo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2015-06-29/brivoi-se-acerca&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2015-06-29/brivoi-esta-vir&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Mon, 29 Jun 2015 20:24:37 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">29 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>First Escornabot keypad app</title>
+ <link>http://escornabot.com/web/en/video/first-escornabot-keypad-app</link>
+ <description>&lt;div class=&quot;field field-name-field-video field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;media-youtube-video media-youtube-1&quot;&gt;
+  &lt;iframe class=&quot;media-youtube-player&quot; width=&quot;596&quot; height=&quot;390&quot; title=&quot;BKOsr1EPXr4&quot; src=&quot;//www.youtube.com/embed/BKOsr1EPXr4?wmode=opaque&quot; frameborder=&quot;0&quot; allowfullscreen&gt;Video of BKOsr1EPXr4&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;@lobotic shows us an Android app built with the &lt;a href=&quot;http://appinventor.mit.edu/explore/&quot;&gt;MIT App Inventor&lt;/a&gt;. Further information on &lt;a href=&quot;http://ceipmiskatonic.blogspot.com.es/2015/04/controlar-el-escornabot-por-bluetooth.html&quot;&gt;the author&#039;s post&lt;/a&gt; (in Spanish).&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/video/primera-app-de-teclado-para-escornabot&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/video/primeira-app-de-teclado-para-escornabot&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Sun, 19 Apr 2015 08:55:00 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">27 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>Maze without limits with straws and clothespins</title>
+ <link>http://escornabot.com/web/en/2015-03-09/maze-without-limits-straws-and-clothespins</link>
+ <description>&lt;a href=&quot;/web/en/2015-03-09/maze-without-limits-straws-and-clothespins&quot;&gt;&lt;img class=&quot;teaserimage&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://escornabot.com/web/sites/default/files/styles/teaser_image/public/node_attachs/clothespin_straw.jpg?itok=JCTphR46&quot; alt=&quot;Maze without limits with straws and clothespins&quot; title=&quot;Maze without limits with straws and clothespins&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://plus.google.com/116520498030072719107/&quot;&gt;Jorge Lobo&lt;/a&gt;, teacher at &lt;em&gt;CEIP Lope de Vega&lt;/em&gt; school in Madrid, proposes an interesting way of building &lt;strong&gt;mazes with barriers made of straws and clothespins&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The maze challenge consists in programming the Escornabot in order to cross the maze and don&#039;t crash with the walls. One error will cause the building destruction by the bug. Fortunatly, these barriers are recyclable.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The original post is here (in Spanish): &lt;a href=&quot;http://www.ceipmiskatonic.blogspot.nl/2015/03/laberintos-infinitos-para-escornabot-o.html&quot;&gt;http://www.ceipmiskatonic.blogspot.nl/2015/03/laberintos-infinitos-para-...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/tag/tags/game&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;game&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/web/en/tag/tags/maze&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;maze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2015-03-09/laberinto-sin-limites-con-pajitas-y-pinzas-de-ropa&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2015-03-09/labirinto-sen-limites-con-pallinas-e-pinzas-de-roupa&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Mon, 09 Mar 2015 10:00:47 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">21 at http://escornabot.com/web</guid>
+</item>
+<item>
+ <title>Milestone Zero</title>
+ <link>http://escornabot.com/web/en/2015-02-26/milestone-zero</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Escornabot&#039;s site&lt;/em&gt; is on the air from today. Beep-beep go!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;es first&quot;&gt;&lt;a href=&quot;/web/es/2015-02-26/mojon-cero&quot; class=&quot;language-link&quot; xml:lang=&quot;es&quot;&gt;Español&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;gl last&quot;&gt;&lt;a href=&quot;/web/gl/2015-02-26/miliario-cero&quot; class=&quot;language-link&quot; xml:lang=&quot;gl&quot;&gt;Galego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Thu, 26 Feb 2015 10:22:00 +0000</pubDate>
+ <dc:creator>escornamaster</dc:creator>
+ <guid isPermaLink="false">1 at http://escornabot.com/web</guid>
+</item>
+</channel>
+</rss>
