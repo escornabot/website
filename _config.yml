@@ -2,6 +2,7 @@
 markdown: kramdown
 
 # Site options
+url: https://escornabot.com
 baseurl: /
 
 exclude:
