@@ -27,7 +27,9 @@ Se usa inglés, español y gallego en ambas listas.
 
 Muchas de las cosas que vamos desarrollando pero no tienen todavía la estabilidad necesaria para documentarlas y publicarlas en la página oficial, las puedes consultar en nuestra [wiki][WIK01]. Lo mismo pasa con los diseños y programas que vamos subiendo a nuestro [github][GIT01].
 
-### Correo electrónico y formulario de contacto
+### Correo electrónico
+
+Puedes escribirnos a escornabot@gmail.com pero ten paciencia, que vamos pasito a pasito :-)
 
 <!--
 ## Escornabot Family
@@ -43,11 +45,10 @@ Muchas de las cosas que vamos desarrollando pero no tienen todavía la estabilid
 -ToDo-
 -->
 
-[CON01]: https://escornabot.com/web/es/form/contacto
 [ESD01]: https://groups.google.com/forum/#!forum/escornabot
 [ESU01]: https://groups.google.com/forum/#!forum/escornabot_users
-[WIK01]: http://escornawiki.org/P%C3%A1gina_principal
-[GIT01]: https://github.com/escornabot/
+[WIK01]: http://wiki.escornabot.com
+[GIT01]: https://github.com/escornabot
 
 
 <!-- Images -->
