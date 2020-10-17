@@ -23,6 +23,7 @@ Principalmente, preferimos que espongas tus preguntas en nuestra lista de correo
 
 Se usa inglés, español y gallego en ambas listas.
 
+
 ### Wiki y Github
 
 Muchas de las cosas que vamos desarrollando pero no tienen todavía la estabilidad necesaria para documentarlas y publicarlas en la página oficial, las puedes consultar en nuestra [wiki][WIK01]. Lo mismo pasa con los diseños y programas que vamos subiendo a nuestro [github][GIT01].
@@ -30,6 +31,11 @@ Muchas de las cosas que vamos desarrollando pero no tienen todavía la estabilid
 ### Correo electrónico
 
 Puedes escribirnos a escornabot@gmail.com pero ten paciencia, que vamos pasito a pasito :-)
+
+### Redes sociales
+
+- Telegram: https://t.me/escornafans
+- Twitter: https://twitter.com/escornabot
 
 <!--
 ## Escornabot Family
